@@ -1,6 +1,6 @@
 # English 506 (Special Topic): "Media Aesthetics, Medium Theory"
 
-**Draft description** 
+**DRAFT DESCRIPTION** 
 
 This graduate seminar introduces you to comparative media studies, which involves design, creation, history, and analysis across media forms and practices. Our fundamental questions for the term will be, "How is communication mediated, and what can we learn from experimental media?" You will have opportunities to build a vocabulary for media studies, articulate your own working theory of communication, trace some experimental techniques, and write with (and not just about) media. The seminar is intended for anyone who is curious about media studies, and it should be useful for students who are researching the material dimensions of language, communication, literature, or culture. It is structured around two core concepts: media aesthetics and medium theory.
 
