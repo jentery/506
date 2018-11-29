@@ -1,4 +1,4 @@
-# English 506 (Special Topic): "Media Aesthetics, Medium Theory"
+# English 506 / CSPT 500 (Special Topic): "Media Aesthetics, Medium Theory"
 
 **DRAFT DESCRIPTION** 
 
