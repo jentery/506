@@ -33,26 +33,53 @@ I'll point you to the rest of the works.
 
 ## What Are We Doing? 
 
-Three co-facilitations of seminar discussion: 15%
-Annotated bibliography of a technique: 15% 
-Genealogy of a technique: 20%
-End-of-term presentation (next to last meeting): 15%
-Final project or essay: 35%
+We're going to consider media aesthetics as an alternative to the economization of experience (where media are rational means to an end). We'll ground our studies in fiction from the 20th and 21st centuries, and we'll examine how particular apparatuses shape how media and fiction are measured, perceived, traversed, and interpreted. Material will include fantasy, science fiction, radio drama, games, comics, and experimental literature. Interpretation will require listening, looking, watching, playing, and reading.  
 
-More coming soon. 
+I'm asking you to gradually develop a final project or essay, starting with co-facilitations of seminar discussions and an annotated bibliography and followed by a "genealogy" of a particular technique (appearing in media and fiction) of interest to you. You'll then present working material from your project or essay near the end of term (during our penultimate meeting) and submit your final project or essay in mid-April. I will consult with you and provide feedback throughout the process, and I'll given you plenty of room to experiment with your approach to scholarship in / around media aesthetics. 
+
+* Three co-facilitations of seminar discussion: 5% each 
+* Annotated bibliography of a technique: 15% 
+* Genealogy of a technique: 20%
+* End-of-term presentation: 15%
+* Final project or essay: 35% 
+
+I'll provide rubrics and prompts for all of this stuff.  
+
+## What Are Media? 
+
+For the purposes of this seminar, I'll define media as "congealed labour" or "techniques made durable." The primary media will be audio, image, and text. We'll address media as processes and things, not objects or means. 
 
 ## What's Media Aesthetics? 
 
-Media aesthetics is the practice of evaluating how design and content are apprehended, comprehended, synthesized, and reproduced. It takes seriously the combination of sensation with understanding, or *sense with making sense*.
+Media aesthetics is the practice of evaluating how design and content are apprehended, comprehended, synthesized, and reproduced. It takes seriously the combination of sensation with understanding, or *sense with making sense*. It also tends to avoid dichotomies, such as digital / analog, electronic / print, and interactive / static, that are common in media and literary studies. 
 
 ## What's an Apparatus? 
 
-Coming soon. 
+An apparatus is not some underlying structure or ideal form. It's an agent for content and design, and it's often right in front us, like an interface&mdash;there, yet impossible to grasp. I'll suggest that the key ingredients of an apparatus are measurement, movement, sense, and making sense, and we'll discuss how apparatuses discipline and standardize experience while also affording some room for experimentation and speculation. 
+
+We'll consider five apparatuses in particular: grids, editors, networks, stacks, and engines. Early in the seminar, I'll explain each in detail, and then we'll return to them throughout the semester.  
 
 ## How Is the Seminar Structured? 
 
-Coming soon. 
+The first week is for introductions. I'll survey the point of the seminar and then I'll talk about media aesthetics and what we're studying. Then each week will include modules organized around key issues in media aesthetics. I express those issues through questions or remarks we might often here. For example: 
+
+* Did You Get My Message? (on messengers, curation, and relating with others) 
+* Dear You: (on world-building, oppression, and being addressed) 
+* Who's Calling? (on broadcasting, decoding, and colonial dissemination) 
+* Is Anyone Listening? (on acousmatic voices, gaslighting, and shouting into the abyss) 
+* You Already Said That. (on memory, playback, and emotional rapport with machines) 
+* Property of . . . (on diaries and true stories that never happened) 
+* Click Here. (on links, forks, and portals) 
+* I'd Prefer Not To. (on refusal) 
+
+And so on. 
+
+Each module will correspond with a particular work (see list above), which will serve as a case study of sorts.  
+
+The middle of the semester will be dedicated to composing (or arguing) with and through media (as a form of scholarship). I'll detail some approaches, and we'll look at some examples. 
+
+The end of the semester will be dedicated to your presentations of research (penultimate meeting) and workshopping it (last meeting). We'll also recap the seminar during the last meeting. 
 
 ## Who Are You? 
 
-I'm an associate professor in the English department. I also teach in CSPT. I've been at UVic since 2011. Most of my work is in comparative media studies. 
+My name is Jentery Sayers. I'm an associate professor in the English department. I also teach in CSPT. I've been at UVic since 2011. Most of my work is in comparative media studies. I teach American fiction, cultural studies, media, and prototyping at UVic. 
