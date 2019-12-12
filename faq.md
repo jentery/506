@@ -55,7 +55,7 @@ Media aesthetics is the practice of evaluating how design and content are appreh
 
 ## What's an Apparatus? 
 
-An apparatus is not some underlying structure or ideal form. It's an agent for content and design, and it's often right in front us, like an interface&mdash;there, yet impossible to grasp. I'll suggest that the key ingredients of an apparatus are measurement, movement, sense, and making sense, and we'll discuss how apparatuses discipline and standardize experience while also affording some room for experimentation and speculation. 
+An apparatus is not some underlying structure or ideal form. It's an agent for content and design, and it's often right in front us, like an interface&mdash;there, yet impossible to grasp. I'll suggest that the key ingredients of an apparatus are measurement, movement, sense, and making sense, and we'll discuss how apparatuses discipline and standardize experience while also affording some room for experiments and conjectures.  
 
 We'll consider five apparatuses in particular: grids, editors, networks, stacks, and engines. Early in the seminar, I'll explain each in detail, and then we'll return to them throughout the semester.  
 
