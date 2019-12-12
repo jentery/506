@@ -20,7 +20,7 @@ We'll study two works each week. Here's a (nearly complete) list.
 * Marson, Una et al. *Caribbean Voices* ([BBC Radio documentary](https://www.bbc.co.uk/programmes/p02sbplt))      
 * Porpentine and Brenda Neotenomie. [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) (experimental fiction)   
 * [Powered by the Apocalypse](http://apocalypse-world.com/pbta/) (game engine)    
-* Stein, Gertrude. [*The Making of Americans*](http://writing.upenn.edu/pennsound/x/Stein.php) (some phongraph recordings of Stein reading this novel)    
+* Stein, Gertrude. [*The Making of Americans*](http://writing.upenn.edu/pennsound/x/Stein.php) (some phonograph recordings of Stein reading this novel)    
 * Strong, Amanda and Leanne Betasamosake Simpson. [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8) (animation)   
 
 ## What Do I Need to Purchase? 
