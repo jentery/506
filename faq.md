@@ -8,7 +8,7 @@ We'll study two works each week. Here's a (nearly complete) list.
 
 Bechdel, Alison. [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) (graphic novel)   
 Beckett, Samuel. [*Krapp’s Last Tape*](https://www.youtube.com/watch?v=otpEwEVFKLc) (video recording of a 1958 performance)   
-cárdenas, micha. [*Redshift & Portalmetal*](http://scalar.usc.edu/works/redshift-and-portalmetal/index)  (experimental media) 
+cárdenas, micha. [*Redshift & Portalmetal*](http://scalar.usc.edu/works/redshift-and-portalmetal/index)  (experimental media)     
 Ferris, Emil. [*My Favorite Thing Is Monsters*](http://www.fantagraphics.com/my-favorite-thing-is-monsters/) (selections from this graphic novel)     
 Fletcher, Lucile. [*Sorry, Wrong Number*](https://archive.org/details/Suspense-SorryWrongNumber) (radio drama)    
 Fox, Toby and Temmie Chang. [*Undertale*](https://undertale.com/) (game)    
@@ -17,7 +17,7 @@ Grigar, Dene and Stuart Moulthrop. [*Pathfinders: Documenting the Experience of 
 Hopkinson, Nalo. “Message in a Bottle," from [*Falling in Love with Hominids*](https://tachyonpublications.com/product/falling-love-hominids/) (short fiction)  
 Jemisin, N.K. [*Fifth Season*](https://www.orbitbooks.net/orbit-excerpts/the-fifth-season/) (selections from this novel)    
 Lawhead, Nathalie. [*Everything Is Going to Be OK*](https://alienmelon.itch.io/everything-is-going-to-be-ok) (zine)    
-Marson, Una et al. *Caribbean Voices* ([BBC Radio documentary](https://www.bbc.co.uk/programmes/p02sbplt)) 
+Marson, Una et al. *Caribbean Voices* ([BBC Radio documentary](https://www.bbc.co.uk/programmes/p02sbplt))      
 Porpentine and Brenda Neotenomie. [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) (experimental fiction)   
 [Powered by the Apocalypse](http://apocalypse-world.com/pbta/) (game engine)    
 Stein, Gertrude. [*The Making of Americans*](http://writing.upenn.edu/pennsound/x/Stein.php) (some phongraph recordings of Stein reading this novel)    
