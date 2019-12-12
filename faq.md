@@ -4,7 +4,7 @@ This is an FAQ for graduate students in my Spring 2020 "Media Aesthetics" gradua
 
 ## What Are We Studying? 
 
-We'll study two works each week. Here's a (nearly complete) list. 
+We'll study two works each week. Here's a (nearly complete) list. Note that many (most?) of them are not books.  
 
 * Bechdel, Alison. [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) (graphic novel)   
 * Beckett, Samuel. [*Krapp’s Last Tape*](https://www.youtube.com/watch?v=otpEwEVFKLc) (video recording of a 1958 performance)   
