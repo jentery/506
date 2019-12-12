@@ -51,7 +51,7 @@ For the purposes of this seminar, I'll define media as "congealed labour" or "te
 
 ## What's Media Aesthetics? 
 
-Media aesthetics is the practice of evaluating how design and content are apprehended, comprehended, synthesized, and reproduced. It takes seriously the combination of sensation with understanding, or *sense with making sense*. It also tends to avoid dichotomies, such as digital / analog, electronic / print, and interactive / static, commonly found in media and literary studies. 
+Media aesthetics is the practice of evaluating how design and content are apprehended, comprehended, normalized, and reproduced. It takes seriously the combination of sensation with understanding, or *sense with making sense*. It also tends to avoid dichotomies, such as digital / analog, electronic / print, and interactive / static, commonly found in media and literary studies. 
 
 ## What's an Apparatus? 
 
