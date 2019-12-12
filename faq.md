@@ -43,7 +43,7 @@ I'm asking you to gradually develop a final project or essay, starting with co-f
 * End-of-term presentation: 15%
 * Final project or essay: 35% 
 
-I'll provide rubrics and prompts for all this stuff.  
+I'll provide rubrics and prompts for all this stuff. No technical work will be required, but you can integrate media practice into your projects or essays, if you wish. 
 
 ## What Are Media? 
 
