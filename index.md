@@ -5,12 +5,12 @@ URL: [jentery.github.io/506/](https://jentery.github.io/506/) ([PDF](https://jen
 
 **Contents**: 
 
-[Description](#description)      
-[Acknowledgements](#acknowledgements)        
-[Aims](#aims)    
-[Modules](#modules)  
-[Background](#background)   
-[Materials](#materials)    
-[Work](#work)   
-[Schedule](#schedule)       
-[Policies](#policies)    
+* [Description](#description)      
+* [Acknowledgements](#acknowledgements)        
+* [Aims](#aims)    
+* [Modules](#modules)  
+* [Background](#background)   
+* [Materials](#materials)    
+* [Work](#work)   
+* [Schedule](#schedule)       
+* [Policies](#policies)    
