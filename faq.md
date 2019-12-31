@@ -1,5 +1,3 @@
-# "Media Aesthetics" FAQ
-
 This is an FAQ for graduate students in my Spring 2020 "Media Aesthetics" graduate seminar (English 506 / CSPT 500) at the University of Victoria. I'll circulate the full course outline in early January. 
 
 ## What Are We Studying? 
