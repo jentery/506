@@ -3,7 +3,7 @@ Media and fiction since 1900
 English 506 + CSPT 500 | UVic   
 Spring 2020 | R 1:30-4:20pm  | CLE C316       
 Jentery Sayers | [jentery@uvic.ca](mailto:jentery@uvic.ca)   
-Office: CLE D334 | Hours: M 1-3pm or by appt.
+Office: CLE D334 | Hours: M 1-3pm or by appt.      
 [jentery.github.io/506/](https://jentery.github.io/506/) ([PDF](https://jentery.github.io/506/syllabus.pdf))     
 
 Contents: 
