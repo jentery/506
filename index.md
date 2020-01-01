@@ -33,3 +33,27 @@ This is not a technical course. It's open to media practice (such as the composi
 As a faculty member who has the privilege to live and work as a guest on these lands, I acknowledge with respect that the University of Victoria is located on the unceded territory of the Lkwungen peoples and the Songhees, Esquimalt, and <u>W̱</u>SÁNEĆ First Nations, whose historical relationships with the land continue to this day.
 
 I owe a debt of gratitude to Daniel Anderson, Erin R. Anderson, Anna Anthropy, Kristin Arola, Moya Bailey, Cheryl Ball, Anne Balsamo, Nina Belojevic, Kathi Inman Berens, Lauren Berlant, Rachel Sagner Buurma, micha cárdenas, Steph Ceraso, Deb Chachra, Ed Chang, Kandice Chuh, Wendy Chun, Hillary Chute, Heidi Rae Cooley, Cathy Davidson, Tracey El Hajj, Lori Emerson, Mary Flanagan, Jacob Gaboury, David Gaertner, Margaret Galvan, Alex Gil, Lisa Gitelman, Dene Grigar, Richard Grusin, Aimi Hamraie, Katherine Hayles, Sara Hendren, Stefan Higgins, Curtis Hisayasu, Patrick Jagoda, Kat Jungnickel, Matthew Kirschenbaum, Lauren Klein, Kim Knight, Kari Kraus, Virginia Kuhn, Elizabeth LaPensée, Alan Liu, Hector Lopez, Elizabeth Losh, Alexis Lothian, Shaun Macpherson, Mark Marino, Shannon Mattern, Tara McPherson, W.J.T. Mitchell, Aimée Morrison, Janet Murray, Timothy Murray, Lisa Nakamura, Alondra Nelson, Allison Parrish, Jessica Rajko, Howard Rambsy II, Rita Raley, Matt Ratto, Margaret Rhee, Roopika Risam, Daniela Rosner, Anastasia Salter, Mark Sample, Alana Sayers, Cynthia Selfe, Steven Shaviro, Karis Shearer, Emily Short, Leanne Betasamosake Simpson, Nick Sousanis, Jonathan Sterne, Jennifer Lynn Stoever, Jesse Stommel, Victoria Szabo, Cathy Thomas, Phillip Thurtle, Whitney Trettien, Bill Turkel, Annette Vee, Noah Wardrip-Fruin, Jacqueline Wernimont, Kathleen Woodward, Melanie Yergeau, and Gregory Zinman, whose approaches to teaching and research have especially influenced the construction of this syllabus.
+
+## Schedule 
+
+Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+### January 9th 
+
+*What's This All About?*: on the point of this seminar 
+
+*Did You Just Say "Aesthetics"?*: on sense and making sense 
+
+### January 16th
+
+*Dear You*: on world-building, structural oppression, and being addressed
+
+Please read selections from N.K. Jemisin's *Fifth Season* (2015), which is the first book in Jemisin's *Broken Earth* trilogy. 
+
+media: text | apparatus: engine     
+
+*Did You Get My Message?*: on messengers, curation, and relating with others
+
+Please read Nalo Hopkinson's "Message in a Bottle" (2005).  
+
+media: text | apparatus: network  
