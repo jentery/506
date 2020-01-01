@@ -46,14 +46,10 @@ Lorem Ipsum is not simply random text. It has roots in a piece of classical Lati
 
 ### January 16th
 
-*Dear You*: on world-building, structural oppression, and being addressed
+*Dear You*: on world-building, structural oppression, and being addressed (media: text | apparatus: engine) 
 
-Please read selections from N.K. Jemisin's *Fifth Season* (2015), which is the first book in Jemisin's *Broken Earth* trilogy. 
+Please read selections from N.K. Jemisin's *Fifth Season* (2015), which is the first book in Jemisin's *Broken Earth* trilogy.    
 
-media: text | apparatus: engine     
-
-*Did You Get My Message?*: on messengers, curation, and relating with others
+*Did You Get My Message?*: on messengers, curation, and relating with others (media: text | apparatus: network) 
 
 Please read Nalo Hopkinson's "Message in a Bottle" (2005).  
-
-media: text | apparatus: network  
