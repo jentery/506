@@ -92,7 +92,7 @@ Please purchase Alison Bechdel's [*Fun Home: A Family Tragicomic*](http://www.ho
 * Toby Fox and Temmie Chang's [*Undertale*](https://undertale.com/) 
 * Fulbright's [*Gone Home*](https://gonehome.game/) 
 
-Of note, you could play *Gone Home* and *Undertale* with friends, and you can watch gameplay videos of them online.  
+Of note, you can play *Gone Home* and *Undertale* with friends and watch gameplay videos of them online.  
 
 Alongside these materials, I've dedicated a section of this syllabus to [notes](#notes). I'll populate that section as the semester unfolds. I don't plan to use slides in this course; however, I will include in our seminar discussions various snippets of audio, image, and text from assigned fictions. As you study them, I recommend doing the same: consider screengrabs, sound clips, photographs, video, and whatnot for your own records and reference. If you'd like advice on annotating media, then let me know.  
 
