@@ -77,9 +77,9 @@ After Week 1, most weeks will include one or two modules organized around key is
 
 Each module corresponds with a particular work of fiction that will serve as a case study or "tutor text," if you will. 
 
-The middle of the semester (immediately after reading break) is dedicated to composing (or arguing) with and through media as a form of scholarship. I'll detail some approaches, and we'll look at some examples by scholars of media and fiction.
+The middle of the term (immediately after reading break) is dedicated to composing (or arguing) with and through media as a form of scholarship. I'll detail some approaches, and we'll look at some examples by scholars of media and fiction.
 
-The end of the semester is dedicated to your presentations (penultimate meeting) and workshopping your projects (last meeting). We'll also recap the seminar and our discussions of media aesthetics during the last meeting. Somewhere between the middle and the end, I'll ask you to meet with me to discuss your final project or essay.  
+The end of the term is dedicated to your presentations (penultimate meeting) and workshopping your projects (last meeting). We'll also recap the seminar and our discussions of media aesthetics during the last meeting. Somewhere between the middle and the end, I'll ask you to meet with me to discuss your final project or essay.  
 
 ## Materials 
 
@@ -94,6 +94,50 @@ Please purchase Alison Bechdel's [*Fun Home: A Family Tragicomic*](http://www.ho
 
 Of note, you can play *Gone Home* and *Undertale* with friends and watch gameplay videos of them online.  
 
-Alongside these materials, I've dedicated a section of this syllabus to [notes](#notes). I'll populate that section as the semester unfolds. I don't plan to use slides in this course; however, I will include in our seminar discussions various snippets of audio, image, and text from assigned fictions. As you study them, I recommend doing the same: consider screengrabs, sound clips, photographs, video, and whatnot for your own records and reference. If you'd like advice on annotating media, then let me know.  
+Alongside these materials, I've dedicated a section of this syllabus to [notes](#notes). I'll populate that section as the term unfolds. I don't plan to use slides in this course; however, I will include in our seminar discussions various snippets of audio, image, and text from assigned fictions. As you study them, I recommend doing the same: consider screengrabs, sound clips, photographs, video, and whatnot for your own records and reference. If you'd like advice on annotating media, then let me know.  
 
 You'll notice that most of the assigned materials are from the 21st century. I made these selections in part because I think (or hope) they will spark some engaging, if not pressing, seminar discussions about speculation and the apparatuses of media and fiction, but this decision to attend to the present does not mean we won't account for history in this course. During most modules, I'll provide overviews of where the assigned materials "fit," and how, in media, fiction, and theory since 1900. All that said, our aim will not be to defend a canon of material from the 20th and 21st centuries. 
+
+## Schedule 
+
+Here's the schedule for the term. Please note that it's subject to change. I will notify you during seminar at least two weeks in advance of any changes. 
+
+### January 9th 
+
+*What's This All About?*: on the point of this seminar 
+
+*Did You Just Say "Aesthetics"?*: on sense and making sense, including some methods for media aesthetics 
+
+Please select the date and assigned material(s) for your first co-facilitation. I'll circualte a sign-up sheet. 
+
+### January 16th
+
+*Dear You*: on world-building, structural oppression, and being addressed (media: text | apparatus: engine)    
+
+Please read [selections from N.K. Jemisin's *Fifth Season*](http://jenteryteaches.com/noneshall/506/jemisin.pdf) (2015), which is the first book in Jemisin's *Broken Earth* trilogy. 
+
+*Did You Get My Message?*: on messengers, curation, and relating with others (media: text | apparatus: network)     
+
+Please read [Nalo Hopkinson's "Message in a Bottle"](http://jenteryteaches.com/noneshall/506/hopkinson.pdf) (2005).  
+
+### January 23rd 
+
+*Who's Calling?*: on broadcasting, decoding, and colonial dissemination (media: audio, text | apparatus: editor, network)       
+ 
+Please listen to part one of [Colin Grant's BBC documentary, *Caribbean Voices*](http://jenteryteaches.com/noneshall/506/grant.mp3), about Una Marson, *Calling the West Indies*, and the *Caribbean Voices* radio program (1943-58)
+
+*Is Anyone Listening?*: on acousmatic voices, gaslighting, and shouting into the abyss (media: audio, text | apparatus: editor, network)      
+
+Please listen to [Lucile Fletcher's *Sorry, Wrong Number*](http://jenteryteaches.com/noneshall/506/fletcher.mp3) (1943) 
+
+### January 30th 
+
+*You Already Said That.*: on repetition, texture, snapshots, and novels that aren't novels (media: audio, text | apparatus: editor)    
+
+Please listen to all 14 selections / fragments from [Gertrude Stein's *The Making of Americans*](http://writing.upenn.edu/pennsound/x/Stein.php) (1911/1925; recorded at Columbia University's Speech Lab in 1935; care of PennSound) 
+
+*You Already Said That.*: on memory, playback, and emotional rapport with machines (media: audio, text | apparatus: editor)        
+
+Please watch a video of [Samuel Beckett's *Krapp's Last Tape*](https://www.youtube.com/watch?v=otpEwEVFKLc) (first performed at the Royal Court Theatre in London in 1958, with Patrick Magee as Krapp and Donald McWhinnie directing) 
+
+Please select the date and assigned material(s) for your second co-facilitation.
