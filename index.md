@@ -115,31 +115,31 @@ Please select the date and assigned material(s) for your first co-facilitation. 
 
 ### January 16th
 
-*Did You Get My Message?*: on messengers, curation, and relating with others (media: text | apparatus: network)     
+*Did You Get My Message?*: on messengers, curation, and relating with others (media: text; apparatus: network)     
 
 Please read Nalo Hopkinson's ["Message in a Bottle"](http://jenteryteaches.com/noneshall/506/hopkinson.pdf) (2005).  
 
-*Dear You*: on worldbuilding, structural oppression, and being addressed (media: text | apparatus: engine)    
+*Dear You*: on worldbuilding, structural oppression, and being addressed (media: text; apparatus: engine)    
 
 Please read selections from N.K. Jemisin's [*Fifth Season*](http://jenteryteaches.com/noneshall/506/jemisin.pdf) (2015), which is the first book in Jemisin's *Broken Earth* trilogy. 
 
 ### January 23rd 
 
-*Who's Calling?*: on broadcasting, decoding, and colonial dissemination (media: audio, text | apparatus: editor, network)       
+*Who's Calling?*: on broadcasting, decoding, and colonial dissemination (media: audio, text; apparatus: editor, network)       
  
 Please listen to part one of Colin Grant's BBC documentary, [*Caribbean Voices*](http://jenteryteaches.com/noneshall/506/grant.mp3), about Una Marson, *Calling the West Indies*, and the *Caribbean Voices* radio program (1943-58).
 
-*Is Anyone Listening?*: on acousmatic voices, gaslighting, and shouting into the abyss (media: audio, text | apparatus: editor, network)      
+*Is Anyone Listening?*: on acousmatic voices, gaslighting, and shouting into the abyss (media: audio, text; apparatus: editor, network)      
 
 Please listen to Lucile Fletcher's [*Sorry, Wrong Number*](http://jenteryteaches.com/noneshall/506/fletcher.mp3) (1943).
 
 ### January 30th 
 
-*You Already Said That.*: on texture, snapshots, and novels that aren't novels (media: audio, text | apparatus: editor)    
+*You Already Said That.*: on texture, snapshots, and novels that aren't novels (media: audio, text; apparatus: editor)    
 
 Please listen to all 14 selections / fragments from Gertrude Stein's [*The Making of Americans*](http://writing.upenn.edu/pennsound/x/Stein.php) (1911/1925; recorded at Columbia University's Speech Lab in 1935; care of PennSound). 
 
-*You Already Said That.*: on memory, playback, and emotional rapport with machines (media: audio, text | apparatus: editor)        
+*You Already Said That.*: on memory, playback, and emotional rapport with machines (media: audio, text; apparatus: editor)        
 
 Please watch a video of Samuel Beckett's [*Krapp's Last Tape*](https://www.youtube.com/watch?v=otpEwEVFKLc) (first performed at the Royal Court Theatre in London in 1958, with Patrick Magee as Krapp and Donald McWhinnie directing). 
 
@@ -147,17 +147,17 @@ Please select the date and assigned material(s) for your second co-facilitation.
 
 ### February 6th 
 
-*What Are You Reading Next?*: on archives, allusions, method cartooning, and entwining the personal with the political (media: text, image | apparatus: grid, editor)     
+*What Are You Reading Next?*: on archives, allusions, method cartooning, and entwining the personal with the political (media: text, image; apparatus: grid, editor)     
 
 Please read Alison Bechdel's [*Fun Home: A Family Tragicomic*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) (2006). 
 
 ### February 13th 
 
-*Property of . . .*: on graphic diaries, cross-hatching, and true stories that never happened (media: image, text | apparatus: grid)     
+*Property of . . .*: on graphic diaries, cross-hatching, and true stories that never happened (media: image, text; apparatus: grid)     
 
 Please read selections of Emil Ferris's [*My Favorite Thing Is Monsters*](http://jenteryteaches.com/noneshall/506/ferris.pdf) (2017). 
 
-*In a World . . .*: on voice-over, wayward guides, puzzles, and presence (media: image, audio | apparatus: stack, editor)     
+*In a World . . .*: on voice-over, wayward guides, puzzles, and presence (media: image, audio; apparatus: stack, editor)     
 
 Please play Marina Kittaka's [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) for at least 30 minutes.
 
@@ -185,7 +185,7 @@ Please select the date and assigned material(s) for your third  co-facilitation.
 
 ### March 5th 
 
-*I Followed the Rules.*: on roleplay, executable language, and protocols for action (media: text | apparatus: engine)     
+*I Followed the Rules.*: on roleplay, executable language, and protocols for action (media: text; apparatus: engine)     
 
 Please prototype a game using Avery Alder's [*Simple World*](https://buriedwithoutceremony.com/simple-world) (2013). You may also want to check out games made with the [Powered by the Apocalypse](http://apocalypse-world.com/pbta/) engine. 
 
@@ -193,11 +193,11 @@ Please schedule a time to meet with me (20-30 minutes) about your project or ess
 
 ### March 12th 
 
-*Click Here.*: on links, forks, and portals (media: text, image, audio | apparatus: stack, network)     
+*Click Here.*: on links, forks, and portals (media: text, image, audio; apparatus: stack, network)     
 
 Please read / play Porpentine Charity Heartscape and Brenda Neotenomie's [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) (2014) for at least 45 minutes.  
 
-*Insert Yourself Here.*: on simulation and the everyday paranormal (media: text, image, audio | apparatus: engine, grid)     
+*Insert Yourself Here.*: on simulation and the everyday paranormal (media: text, image, audio; apparatus: engine, grid)     
 
 Please play [Fulbright's *Gone Home*](https://gonehome.game/) (2013) for at least 90 minutes. 
 
@@ -205,11 +205,11 @@ Please submit your genealogy today.
 
 ### March 19th 
 
-*I'd Prefer Not To.*: on menus, refusal, and the design of encounters (media: text, image, audio | apparatus: grid, editor)     
+*I'd Prefer Not To.*: on menus, refusal, and the design of encounters (media: text, image, audio; apparatus: grid, editor)     
 
 Please play [Toby Fox and Temmie Chang's *Undertale*](https://undertale.com/) (2015) for at least 90 minutes.  
 
-*Cannot Open File.*: on being deprecated (media: text, image, audio | apparatus: stack, editor)  
+*Cannot Open File.*: on being deprecated (media: text, image, audio; apparatus: stack, editor)  
 
 Please read and watch [Young-Hae Chang Heavy Industries' *M00D 0F THE M0MENT*](https://web.archive.org/web/20071013012810/http://yhchang.com/MOOD_OF_THE_MOMENT.html) (2007). Try this [URL](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) if the first one doesn't work in your browser.  
 
