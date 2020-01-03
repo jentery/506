@@ -159,7 +159,7 @@ Please read selections of Emil Ferris's [*My Favorite Thing Is Monsters*](http:/
 
 *In a World . . .*: on voice-over, wayward guides, puzzles, and presence (media: image, audio; apparatus: stack, editor)     
 
-Please play Marina Kittaka's [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) for at least 30 minutes.
+Please play Marina Kittaka's [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014) for at least 30 minutes.
 
 Please submit your annotated bibliography today.  
 
