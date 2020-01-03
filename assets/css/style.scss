@@ -2,4 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
-$font-size: 19px;
+$font-size-base:          16px !default; 
+$font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px 
+$font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px 
+  
+$font-size-h1:            40px !default; 
+$font-size-h2:            36px !default; 
+$font-size-h3:            26px !default; 
+$font-size-h4:            22px !default; 
+$font-size-h5:            20px !default; 
+$font-size-h6:            18px !default;
