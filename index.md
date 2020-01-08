@@ -147,7 +147,7 @@ Please read Nalo Hopkinson's ["Message in a Bottle"](http://jenteryteaches.com/n
 
 January 16th: on worldbuilding, structural oppression, and being addressed (media: text; apparatus: engine)    
 
-Please read selections from N.K. Jemisin's *The Fifth Season* (coming soon) (2015), which is the first book in Jemisin's *Broken Earth* trilogy. 
+Please read selections from N.K. Jemisin's [*The Fifth Season*](http://jenteryteaches.com/noneshall/506/jemisinTheFifthSeason.pdf) (2015), which is the first book in Jemisin's *Broken Earth* trilogy. 
 
 ## Who's Calling? 
 
