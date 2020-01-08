@@ -4,7 +4,7 @@ English 506 + CSPT 500 | UVic
 Spring 2020 | R 1:30-4:20pm          
 Jentery Sayers | [jentery@uvic.ca](mailto:jentery@uvic.ca)   
 Office: CLE D334 | M 1-3pm or by appt.       
-[jentery.github.io/506/](https://jentery.github.io/506/) ([PDF](https://jentery.github.io/506/syllabus.pdf))     
+[jentery.github.io/506/](https://jentery.github.io/506/) ([PDF](https://jentery.github.io/506/syllabus.pdf) without notes)     
 
 Contents: 
 
@@ -265,7 +265,7 @@ We'll review what we did this term and discuss the use of portfolios in media an
 
 Please submit your project or essay by Thursday, April 16th (two weeks from today).   
 
-## Prompts 
+# Prompts 
 
 I'm asking you to submit the following assignments this term: 
 
