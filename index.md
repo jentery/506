@@ -233,7 +233,7 @@ Please read / play Porpentine Charity Heartscape and Brenda Neotenomie's [*With 
 
 ## Insert Yourself Here.
 
-March 12th: on simulation and the everyday paranormal (media: text, image, audio; apparatus: engine, grid)     
+March 12th: on simulation, subjective shots, and the everyday paranormal (media: text, image, audio; apparatus: engine, grid)     
 
 Please play [Fulbright's *Gone Home*](https://gonehome.game/) (2013) for at least 90 minutes. 
 
