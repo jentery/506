@@ -143,7 +143,7 @@ January 16th: on messengers, curation, and relating with others (media: text; ap
 
 Please read Nalo Hopkinson's ["Message in a Bottle"](http://jenteryteaches.com/noneshall/506/hopkinsonMessageInABottle.pdf) (2005). 
 
-## Dear You: 
+## You Are Here. 
 
 January 16th: on worldbuilding, structural oppression, and being addressed (media: text; apparatus: engine)    
 
