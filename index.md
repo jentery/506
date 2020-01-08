@@ -1,7 +1,7 @@
 Media and fiction since 1900   
 A graduate seminar       
 English 506 + CSPT 500 | UVic   
-Spring 2020 | R 1:30-4:20pm          
+Winter 2020 | R 1:30-4:20pm          
 Jentery Sayers | [jentery@uvic.ca](mailto:jentery@uvic.ca)   
 Office: CLE D334 | M 1-3pm or by appt.       
 [jentery.github.io/506/](https://jentery.github.io/506/) ([PDF](https://jentery.github.io/506/syllabus.pdf) without notes or prompts)     
@@ -95,7 +95,9 @@ Here's a list of what we're studying this term (in the order of when we're study
 * Alison Bechdel's *Fun Home: A Family Tragicomic* (2006)
 * Emil Ferris's *My Favorite Thing Is Monsters* (2017) (selections)
 * Marina Kittaka's *Secrets Agent* (2014) 
+* Patrick Jagoda's "Critique and Critical Making" (2017)
 * Dene Grigar and Stuart Moulthrop's *Pathfinders: Documenting the Experience of Early Digital Literature* (2015)
+* Gregory Zinman's *Handmade Cinema* (2020)
 * Amanda Strong and Leanne Betasamosake Simpson's *Biidaaban (The Dawn Comes)* (2019) 
 * micha cárdenas and Bobby Bray's *Redshift & Portalmetal* (2014)
 * Avery Alder's *Simple World* (2013)
@@ -123,7 +125,7 @@ You'll notice that most of the assigned materials are from the 21st century. I m
 
 Here's the schedule for the term. I will notify you during seminar at least two weeks in advance of any changes. When materials are not open access or in the public domain, I abide by fair dealing guidelines. I also contributed to the artists' Patreon accounts, where applicable. 
 
-To keep us on schedule, expect an email from me to everyone in the seminar once (and only once) per week. That weekly email should also encourage transparency and help us all plan ahead. 
+To keep us on schedule, expect an email from me to everyone in the seminar once (and only once) per week. That weekly email should also encourage transparency and help us all plan ahead. I will often include lesson plans in my emails. 
 
 ## What's This All About? 
 
@@ -259,7 +261,7 @@ Please present an overview of your project or essay during seminar. Your present
 
 April 2nd: on productivity and portfolios 
 
-We'll review what we did this term and discuss the use of portfolios in media and fiction studies. Then you'll workshop your projects and essays. 
+We'll review what we did (and didn't do) this term and discuss the use of portfolios in media and fiction studies. We'll also discuss how and to what effects scholarship is labour. Then you'll workshop your projects and essays. 
 
 Please submit your project or essay by Thursday, April 16th (two weeks from today).   
 
@@ -273,7 +275,7 @@ I'm asking you to submit the following assignments this term:
 * A presentation related to your final project or essay: 15% of your final mark 
 * Final project or essay: 35% of your final mark 
 
-I will provide in this section of the syllabus a prompt and rubric for each of these assignments. Please email me your bibliography, genealogy, and final project or essay in PDF, where possible. (I realize that most projects probably won't export to PDF.) If you have materials from your co-facilitations and/or presentation, then please email me those documents, too. 
+I will provide in this section of the syllabus a prompt and rubric for each of these assignments. Please email me your bibliography, genealogy, and final project or essay in PDF, where possible. (I realize that most projects probably won't export well, if at all, to PDF.) If you have materials from your co-facilitations and/or presentation, then please email me those documents, too. 
 
 # Notes 
 
