@@ -4,7 +4,7 @@ English 506 + CSPT 500 | UVic
 Spring 2020 | R 1:30-4:20pm          
 Jentery Sayers | [jentery@uvic.ca](mailto:jentery@uvic.ca)   
 Office: CLE D334 | M 1-3pm or by appt.       
-[jentery.github.io/506/](https://jentery.github.io/506/) ([PDF](https://jentery.github.io/506/syllabus.pdf) without notes)     
+[jentery.github.io/506/](https://jentery.github.io/506/) ([PDF](https://jentery.github.io/506/syllabus.pdf) without notes or prompts)     
 
 Contents: 
 
@@ -139,25 +139,25 @@ Please select the date and assigned material(s) for your first co-facilitation. 
 
 January 16th: on messengers, curation, and relating with others (media: text; apparatus: network)     
 
-Please read Nalo Hopkinson's ["Message in a Bottle"](http://jenteryteaches.com/noneshall/506/hopkinson.pdf) (2005). 
+Please read Nalo Hopkinson's ["Message in a Bottle"](http://jenteryteaches.com/noneshall/506/hopkinsonMessageInABottle.pdf) (2005). 
 
 ## Dear You: 
 
 January 16th: on worldbuilding, structural oppression, and being addressed (media: text; apparatus: engine)    
 
-Please read selections from N.K. Jemisin's [*The Fifth Season*](http://jenteryteaches.com/noneshall/506/jemisin.pdf) (2015), which is the first book in Jemisin's *Broken Earth* trilogy. 
+Please read selections from N.K. Jemisin's *The Fifth Season* (coming soon) (2015), which is the first book in Jemisin's *Broken Earth* trilogy. 
 
 ## Who's Calling? 
 
 January 23rd: on broadcasting, decoding, and colonial dissemination (media: audio, text; apparatus: editor, network)       
  
-Please listen to part one of Colin Grant's BBC documentary, [*Caribbean Voices*](http://jenteryteaches.com/noneshall/506/grant.mp3) (2009), about Una Marson, *Calling the West Indies*, and the *Caribbean Voices* radio program (1943-58).
+Please listen to part one of Colin Grant's BBC documentary, [*Caribbean Voices*](http://jenteryteaches.com/noneshall/506/grantCaribbeanVoices.mp3) (2009), about Una Marson, *Calling the West Indies*, and the *Caribbean Voices* radio program (1943-58).
 
 ## Is Anyone Listening?
 
 January 23rd: on acousmatic voices, gaslighting, and shouting into the abyss (media: audio, text; apparatus: editor, network)      
 
-Please listen to Lucile Fletcher's [*Sorry, Wrong Number*](http://jenteryteaches.com/noneshall/506/fletcher.mp3) (1943).
+Please listen to Lucile Fletcher's [*Sorry, Wrong Number*](http://jenteryteaches.com/noneshall/506/fletcherSorryWrongNumber.mp3) (1943).
 
 ## You Already Said That.
 
@@ -183,7 +183,7 @@ Please read Alison Bechdel's [*Fun Home: A Family Tragicomic*](http://www.hought
 
 : on graphic diaries, cross-hatching, and true stories that never happened (media: image, text; apparatus: grid)     
 
-Please read selections of Emil Ferris's [*My Favorite Thing Is Monsters*](http://jenteryteaches.com/noneshall/506/ferris.pdf) (2017). 
+Please read selections of Emil Ferris's *My Favorite Thing Is Monsters* (coming soon) (2017). 
 
 ## In a World . . . 
 
@@ -203,9 +203,7 @@ It's reading break. There's no seminar this week.
 
 February 27th: on integrating media and design into your scholarship
 
-[Jagoda piece] and Zinmam project 
-
-I also recommend "Introduction to *Pathfinders*" and "Shelley Jackson's *Patchwork Girl*" in Dene Grigar and Stuart Moulthrop's [*Pathfinders: Documenting the Experience of Early Digital Literature*](https://scalar.usc.edu/works/pathfinders/index) (2015) and Gregory Zinman's [*Handmade Cinema*](https://handmadecinema.com/) (2020). 
+Please read Patrick Jagoda's ["Critique and Critical Making"](http://jenteryteaches.com/noneshall/506/jagodaCritique.pdf) (2017). I also recommend "Introduction to *Pathfinders*" and "Shelley Jackson's *Patchwork Girl*" in Dene Grigar and Stuart Moulthrop's [*Pathfinders: Documenting the Experience of Early Digital Literature*](https://scalar.usc.edu/works/pathfinders/index) (2015) as well as Gregory Zinman's [*Handmade Cinema*](https://handmadecinema.com/) (2020). 
 
 ## Composing through Media 
 
