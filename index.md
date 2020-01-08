@@ -181,7 +181,7 @@ Please read Alison Bechdel's [*Fun Home: A Family Tragicomic*](http://www.hought
 
 ## Property of . . . 
 
-: on graphic diaries, cross-hatching, and true stories that never happened (media: image, text; apparatus: grid)     
+February 13th: on graphic diaries, cross-hatching, and true stories that never happened (media: image, text; apparatus: grid)     
 
 Please read selections of Emil Ferris's *My Favorite Thing Is Monsters* (coming soon) (2017). 
 
