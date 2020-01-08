@@ -245,7 +245,7 @@ March 19th: on menus, refusal, and the design of encounters (media: text, image,
 
 Please play [Toby Fox and Temmie Chang's *Undertale*](https://undertale.com/) (2015) for at least 90 minutes. 
 
-## Cannot Open File
+## Cannot Open File.
 
 March 19th: on being deprecated (media: text, image, audio; apparatus: stack, editor)  
 
@@ -279,7 +279,135 @@ I will provide in this section of the syllabus a prompt and rubric for each of t
 
 # Notes 
 
-As the term unfolds, I will share in this section notes, handouts, and reflections from seminar. Expect new content here almost every week of seminar.  
+As the term unfolds, I will share in this section my notes and reflections. Expect new content here almost every week of seminar.  
+
+### Definitions
+
+From our first meeting (January 9th), here are some definitions of key terms I'm using to engage media and fiction. After "media" and "fiction," they are alphabetized.   
+ 
+* **Fiction**: a work of audio, image, and/or text that imagines, if only in part, its character(s), world(s), and/or events(s); has a story that's arranged with narrative; may be read, watched, played, seen, and/or heard
+* **Media**: congealed labour or techniques made durable; not "the media" (singular) or "mass media" of the communications industry; three primary examples in this course are audio, image, and text 
+* **Apparatus**: a mechanism used to measure media and fiction and also economize people's experiences; examples in this course include editors, grids, engines, stacks, and networks 
+* **Audio**: a congealed way of hearing and composing; at once process and thing                          
+* **Format**: a way to nest, circulate, or store media; examples include novels, comics, games, and radio            
+* **Genre**: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of engaging fiction; classic examples are tragedy or comedy, but other examples include fantasy, science fiction, detective, slapstick, romance, action, adventure, horror, mystery, simulation, role-playing, and suspense     
+* **Image**: a congealed way of seeing and composing; at once process and thing
+* **Labour**: what congeals in media but cannot be recorded completely by it; the activities people individually and collectively perform to produce work; examples include emotional, mental, physical, sensual, manual, and machine labour  
+* **Narrative**: how the story in a work of fiction is structured and arranged; components include setup, focalization, character development, and the uses of narrators, flashbacks, and sequencing 
+* **Norms**: worldviews that fiction and media both reproduce and resist; ideologies that discipline perception, the production of knowledge, and social and cultural practice; necessarily exclude some ways of hearing, seeing, reading, and composing in favour of other ways   
+* **Play**: a negotiation or experiment with the meanings, materials, and modes of media and fiction; need not involve explicit rules; also the primary way of engaging games
+* **Prototype**: a possibility presented through media and fiction; associated terms include sketch, scenario, wireframe, experiment, and draft; not a real or finished product with a brand; usually doesn't involve post-production   
+* **Story**: the setting(s), plot, character(s), conflict(s), and point(s) of view in a work of fiction
+* **Style**: what people say is unique about how a given person or group composes with audio, images, and/or text; an artist's or author's "signature"   
+* **Technology**: a system, such as phonography, photography, print, and computing, that reproduces media; usually involves automation  
+* **Text**: a congealed way of reading and composing; at once process and thing   
+* **Work**: an output or result of labour, such as a work of fiction; not just an object or thing, but its content, apparatus, and the processes that went into making and circulating it 
+
+Again, these definitions are not exhaustive. I'm providing them to render transparent my own assumptions and approaches. Equally important, definitions are often quite fuzzy or contingent with history and culture. They are more like guides for situations than answers to important questions, and they should be approached with a healthy dose of skepticism. What's missing from them? What do people want from them? What makes them work? I thus hope you'll question and revise these definitions rather than adopting them wholesale for deployment in this seminar or elsewhere.  
+
+### Why Media?
+
+What is the point of studying media and fiction together in the 2020s? Consider the following list, introduced during our first meeting (January 9th). It translates how this seminar applies generally to the practice of communication and specifically to its analytical, structural, social, cultural, and practical dimensions. None of these applications is restricted to the academy. 
+
+Approaching media and fiction together attends to matters of: 
+
+* **Situation**, or the *context of communication*, including how, when, and where people relate and collaborate through particular media and/or fictions. 
+* **Composition**, or the *content of communication*, including what people read, see, hear, watch, and play in particular media and/or fictions. 
+* **Audience**, or the *purpose of communication*, including what people need, want, and/or expect from particular media and/or fictions. 
+* **Norms**, or the *values of communication*, including what people deem to be credible, compelling, biased, predictable, or problematic about particular media and/or fictions. 
+* **Novelty**, or the *uniqueness of communication*, including how and why particular media and/or fiction are considered to be innovative, disruptive, experimental, or generic. 
+* **Engagement**, or the *experience of communication*, including what people feel and remember about particular media and/or fiction. 
+* **Design**, or the *interface of communication*, including what people notice and ignore and how they navigate content and context. 
+
+I use the acronym **SCANNED** (I know, I know . . .) to remember this list and to state succinctly why people might approach media and fiction together.
+
+### The 20 M's
+
+"Media aesthetics" is the framework we'll use to approach media and fiction in this seminar. I define it as *the practice of evaluating how design and content are apprehended, comprehended, synthesized, and reproduced*. 
+
+We'll use 20 words starting with the letter "m" to facilitate our study of media and fiction through media aesthetics. The list, which I shared during our first meeting (January 9th), is a guide, not a set of instructions, and will inevitably fall apart with some practice and pressure. In the list I avoid common dichotomies between mind and body, logic and feeling, and analysis and experience, mostly because such dichotomies are driven by norms or ideals frequently critiqued within media and literary studies. Although there's an order to the outline, with "Apprehension" appearing first, it's not a hierarchy or series of steps. The "Evaluation" section may prompt revisions to "Synthesis," for example, or some people may wish to start with "Comprehension." I use "work" throughout the guide to refer to a work of fiction and its media (audio, image, and text), and I encourage repeated description to render the process as approachable as possible. Suggestions welcome.  
+
+**Apprehension** 
+
+"What's happening here?" Apprehension is about impressions, sensations, and evocations. It's about the moment, which may be familiar. "I've felt this before." While experience may feel personal, it's social, too. It's structured by media and fiction, and it's shaped by design.   
+
+* Describe the *materials* used. 
+* Describe the *modes* or senses engaged. 
+* Describe the *mood* inhabited or experienced. 
+
+Consider recording or annotating your (initial) engagement in real time (like an unboxing video or Let's Play), if only for your own records. With express consent, you might do the same for someone else and then compare your results. Account for eye rolls and anxious feelings as well: what's off-putting, predictable, unclear, discomfiting, frustrating . . . Apprehension isn't necessarily appreciation.   
+
+**Comprehension** 
+
+"What's this about?" Comprehension is about expressions, understanding, and situating things. It's about making sense after the fact&mdash;identifying and arranging the parts. While it may feel impersonal, it's nevertheless motivated. People usually want meaning and even purpose from media and fiction. 
+
+* Describe the *modules* or parts of the work. 
+* Describe the units used to *measure* the work and its parts.  
+* Describe the *main content* of the story (who, what, when, and where).
+* Describe the work's history, its network, and its *moment* of composition (who, what, when, and where). 
+
+Consider distilling the work, reflecting on it, and even graphing its parts, story, and/or relation to other works in its network. Note how and when these practices are about control, or the pleasure of making sense of things. When is control problematic? What do graphs or classifications get wrong? 
+
+**Synthesis** 
+
+"How does it all come together?" Synthesis is about boundaries and relations. It entwines apprehension with comprehension. It connects materials with abstractions and personal experiences with structures and designs. It's never total or complete; it can't and shouldn't account for all the things.  
+
+* Describe how (you assume) the work was *made*. 
+* Get *meta*. Describe how the story is told.
+* Describe what the work *means* (or its multiple, incongruous *meanings*). 
+* Describe how it *massages* or *manipulates* people's senses.
+* Describe how people *move* with, within, across, and beyond it. 
+* Describe what *motivates* people to return to and/or identify with it. 
+* Describe how it and responses to it have *morphed* over time. 
+* Describe how it is or would be collected and *maintained* over time. 
+
+Consider taking notes for each of these but developing a response to just one or two. Otherwise, the process may be overwhelming. 
+
+**Evaluation** 
+
+"So what?" Evaluation is about assessment, or why people should care about the work and engagements with it. Evaluations have intended audiences; knowing that audience and their expectations focuses the inquiry. 
+
+* Describe how the work *mediates* its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
+* Describe who and what it *misses*, ignores, or essentializes.  
+* Describe the *memories* it elicits and how it elicits them. 
+* Describe how it functions as *mimesis* (show, drama) and diegesis (tell, narrative) within and against its network.  
+
+Again, consider taking notes for each of these but developing a response to just one or two. A response may not be an essay or series of paragraphs. Compose with audio, image, and/or text to determine what sticks with you and/or what others deem to be most compelling.  
+
+**Action** 
+
+"What to do about it all?" Action is about learning and intervention: what people do with a work of media and fiction they encounter and study. Perhaps they do nothing with it. Preferring not to is indeed a sort of action. But so are improving the work, responding to it, integrating it into a project, discussing it with others, and drawing motivation from it. "Active learning" assumes many forms.  
+
+* *Mobilize* the work: change it, prototype with it, teach it, critique it, exhibit it, write about it. 
+
+Consider how a given work of media and fiction intersects with your own interests and trajectories and then determine how to communicate these intersections to (or with) other people. 
+
+### Apparatuses
+
+Approaches to media in fiction rely heavily on how media are measured: how they are divided into components and then isolated, traversed, compared, contrasted, and the like. These components are not the inevitable output of technologies. They are decisions with histories, norms, and expectations. That is, they are made and used often, they have conventions, and people want or assume particular experiences from them. They are also entwined with disciplines and discourses, such as how people talk about games, comics, radio, and books. A mechanism for the production of these components may be called an "apparatus."
+
+An apparatus is not exactly a form or template. It's a relation machine. It helps people to sense and make sense of media in fiction&mdash;to measure media, build vocabularies for media, and move between, within, across, beyond, and to media.
+
+Here's a list of five apparatuses at play in this seminar. I shared it during our first meeting (January 9th). After each apparatus, I mention some components they produce and some relations they enable. I imagine a few of the terms may be unfamiliar, so we'll discuss them during the term. 
+
+* **The Grid**: produces panels and gutters in comics; columns, margins, headers, and lexia on pages; and snap guides in design software; relations premised on flatness, surface, sequence, syntax, scanning, and juxtaposition
+* **The Stack**: produces a front end and back end as well as presentation, logic, and database layers; relations premised on depth, dependencies, access, and visibility 
+* **The Network**: produces paths, maps, branches, and nodes; relations premised on links, forks, paradigms, and wandering 
+* **The Editor**: produces tracks, segments, fades, cuts, splices, wipes, and effects; relations premised on ellipsis, sequence, condensing, synchronization, and simultaneity 
+* **The Engine**: produces worlds, theatres, and models; relations premised on programming, simulation, immersion, and immediacy  
+
+These apparatuses of course intersect. Any given web project, for instance, may involve all of them. Equally interesting, an apparatus may not be explicit in people's engagements with media. The lines of a grid or the graphs for a network rarely appear on page or screen, and an engine usually wants people to forget they're inside a program or world. An apparatus is thus more like an interface. It's there, with palpable consequences; it's just not tangible or tactile.   
+
+An apparatus has clear implications for design, yet it's relevant to studies of fiction, too. If an apparatus is a relation machine, then those relations likely congeal with repeated and collocated use, understood in fiction as genre. Here's another list, then. It uses prepositions to mark relations enabled by apparatuses and then experiments with those prepositions to describe components and experiences common in particular genres, which I italicize. 
+
+* **At (spectacle)**: privileges the coherence of audio, image, and/or text into a single presentation; the story matters less than the experience; spectacles are common in *action and adventure*   
+* **Within (worldbuilding)**: privileges the configuration of audio, image, and/or text as components in a system with rules or conventions; a story is played or inhabited; worldbuilding is common in *fantasy, science fiction, and roleplaying*        
+* **Between (texture)**: privileges friction or tension between components of audio, image, and/or text; a story emerges from play or ambiguity and may promise resolution; texture is common in *strategy, comedy, and detective fiction*   
+* **Across (deferral)**: privileges the use of audio, image, and/or text to make promises and then postpone delivery; the story thrives on what is or could be next; deferral is common in *mystery, horror, thrillers, and suspense*   
+* **Beyond (epic)**: privileges pointing to audio, image, and/or text found elsewhere; the story is part of and refers to something larger; epic is common in *sagas, encyclopedic fiction, and historical fiction* 
+* **To (address)**: privileges interpellation (hey you!) or identification (it me!) via components of audio, image, and/or text; address is common in *simulation and coming-of-age fiction*    
+
+These aren't recipes for genres, and this isn't an exercise in totalization (as if one list could capture everything about genre). It's simply a starting point for approaching media in fiction through an apparatus. I return to the notion of genre later in this course. For now, I'll repeat here my definition of it: "genre: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of engaging fiction." The apparatus of media, or how they're measured, shapes these conventions and expectations.  
 
 # Policies 
 
@@ -343,4 +471,4 @@ The [Student Services website](https://www.uvic.ca/studentaffairs/departments/st
 
 As a faculty member who has the privilege to live and work as a guest on these lands, I acknowledge with respect that the University of Victoria is located on the unceded territory of the Lkwungen peoples and the Songhees, Esquimalt, and <u>W̱</u>SÁNEĆ First Nations, whose historical relationships with the land continue to this day.
 
-I owe a debt of gratitude to Daniel Anderson, Erin R. Anderson, Anna Anthropy, Kristin Arola, Moya Bailey, Cheryl Ball, Anne Balsamo, Nina Belojevic, Ruha Benjamin, Kathi Inman Berens, Lauren Berlant, Helen J Burgess, Rachel Sagner Buurma, micha cárdenas, Steph Ceraso, Deb Chachra, Ed Chang, Kandice Chuh, Wendy Chun, Hillary Chute, Beth Coleman, Heidi Rae Cooley, Cathy Davidson, Tracey El Hajj, Lori Emerson, Mary Flanagan, Jacob Gaboury, David Gaertner, Alexander Galloway, Margaret Galvan, Alex Gil, Lisa Gitelman, Dene Grigar, Richard Grusin, Aimi Hamraie, Katherine Hayles, Sara Hendren, Garnet Hertz, Paul Heyer, Stefan Higgins, Curtis Hisayasu, Patrick Jagoda, Kat Jungnickel, Matthew Kirschenbaum, Lauren Klein, Kim Knight, Kari Kraus, Virginia Kuhn, Elizabeth LaPensée, Alan Liu, Hector Lopez, Elizabeth Losh, Alexis Lothian, Shaun Macpherson, Mark Marino, Shannon Mattern, Ellen McCallum, Tara McPherson, W.J.T. Mitchell, Aimée Morrison, Stuart Moulthrop, Janet Murray, Timothy Murray, Lisa Nakamura, Alondra Nelson, Marcel O'Gorman, Élika Ortega, Allison Parrish, John Durham Peters, Jessica Rajko, Howard Rambsy II, Rita Raley, Matt Ratto, Margaret Rhee, Roopika Risam, Tara Rodgers, Daniela Rosner, Anastasia Salter, Mark Sample, Alana Sayers, Cynthia Selfe, Steven Shaviro, Karis Shearer, Emily Short, Leanne Betasamosake Simpson, Nick Sousanis, Jonathan Sterne, Jennifer Lynn Stoever, Jesse Stommel, Victoria Szabo, Cathy Thomas, Phillip Thurtle, Whitney Trettien, Bill Turkel, Annette Vee, Noah Wardrip-Fruin, Jacqueline Wernimont, Kathleen Woodward, Melanie Yergeau, and Gregory Zinman, whose approaches to teaching and research have especially influenced the construction of this syllabus.
+I owe a debt of gratitude to Daniel Anderson, Erin R. Anderson, Anna Anthropy, Kristin Arola, Moya Bailey, Cheryl Ball, Anne Balsamo, Nina Belojevic, Ruha Benjamin, Kathi Inman Berens, Lauren Berlant, Helen J Burgess, Rachel Sagner Buurma, micha cárdenas, Steph Ceraso, Deb Chachra, Ed Chang, Kandice Chuh, Wendy Chun, Hillary Chute, Beth Coleman, Heidi Rae Cooley, Cathy Davidson, Tracey El Hajj, Lori Emerson, Mary Flanagan, Jacob Gaboury, David Gaertner, Alexander Galloway, Margaret Galvan, Alex Gil, Lisa Gitelman, Dene Grigar, Richard Grusin, Aimi Hamraie, Katherine Hayles, Sara Hendren, Garnet Hertz, Paul Heyer, Stefan Higgins, Curtis Hisayasu, Patrick Jagoda, Kat Jungnickel, Matthew Kirschenbaum, Lauren Klein, Kim Knight, Kari Kraus, Virginia Kuhn, Elizabeth LaPensée, Alan Liu, Hector Lopez, Elizabeth Losh, Alexis Lothian, Shaun Macpherson, Mark Marino, Shannon Mattern, Ellen McCallum, Tara McPherson, W.J.T. Mitchell, Aimée Morrison, Stuart Moulthrop, Janet Murray, Timothy Murray, Lisa Nakamura, Alondra Nelson, Marcel O'Gorman, Élika Ortega, Allison Parrish, John Durham Peters, Miriam Posner, Jessica Rajko, Howard Rambsy II, Rita Raley, Matt Ratto, Margaret Rhee, Roopika Risam, Tara Rodgers, Daniela Rosner, Anastasia Salter, Mark Sample, Alana Sayers, Cynthia Selfe, Steven Shaviro, Karis Shearer, Emily Short, Leanne Betasamosake Simpson, Nick Sousanis, Jonathan Sterne, Jennifer Lynn Stoever, Jesse Stommel, Victoria Szabo, Cathy Thomas, Phillip Thurtle, Whitney Trettien, Bill Turkel, Annette Vee, Noah Wardrip-Fruin, Jacqueline Wernimont, Kathleen Woodward, Melanie Yergeau, and Gregory Zinman, whose approaches to teaching and research have especially influenced the construction of this syllabus.
