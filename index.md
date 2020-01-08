@@ -19,7 +19,7 @@ Contents:
 * [Policies](#policies) 
 * [Acknowledgements](#acknowledgements)   
 
-## Description 
+# Description 
 
 Media are frequently treated as means in the business of making records. They help to verify communication occurred. *Did you get my message?* They also help to confirm meaning. *Do you understand it?* Such treatments tend to economize experience. Media should, for instance, facilitate the seizure and extraction of information. *Take a video. Capture some audio. Grab an image before it's gone.* They should function as proof. *I saw this. I heard that. I was there.* They should be efficient. *Give me the tl;dr.* They should secure consensus. *Don't you agree?* And they should accumulate and produce value. *Am I on brand?* 
 
@@ -29,7 +29,7 @@ What else but fiction to put us on the same page? We'll study media through disc
 
 This is not a technical course. The assignments are open to media practice (such as the composition of audio and video) without requiring it. The seminar does not involve any quantitative or computational methods, either. By "media," I mean "audio, image, and text," not "the media" or mass communications and their outlets. And by "media aesthetics," I mean the practice of evaluating how design and content are apprehended, comprehended, synthesized, and reproduced. In this case, we'll evaluate the design and content of fiction.  
 
-## Aims 
+# Aims 
 
 This seminar is an opportunity for us to attend to how: 
 
@@ -52,7 +52,7 @@ The seminar contributes to your graduate education in English and/or Cultural, S
 
 I hope this approach to the seminar offers you room to experiment with your own take on media aesthetics. If you find that it does not, then please let me know, and I'll adjust my approach accordingly.  
 
-## Background 
+# Background 
 
 My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in comparative media studies. I teach American fiction, cultural studies, media, materialism, and prototyping at UVic. 
 
@@ -60,7 +60,7 @@ I designed this course to correspond with similar research and teaching efforts 
 
 Whatever your ultimate approach, the location of this seminar at UVic is key. The Department of English includes options for graduate students to complete MA essays *or* MA projects, and the university as a whole has a rich history of engaging media, broadly understood. From Special Collections to the Digital Scholarship Commons, you should have a chance to integrate your work with what's happening elsewhere on campus. This seminar and its background aim to prepare you for such integration by presenting you with *a framework for media praxis* as it pertains to fiction in particular and communication in general. Perhaps, for you, praxis leans toward theory, technique, narrative, history, design, or . . . I'm thus excited to see what you do with the framework and how you change and redirect it.
 
-## Structure 
+# Structure 
 
 The first week of this seminar is intended mostly for introductions. We'll meet each other, and I’ll review the syllabus and speak to the point of the course. Then we'll talk about media aesthetics and survey what we're studying this term. I'll conclude by sharing with you some relevant methods for approaching media and fiction. 
 
@@ -80,7 +80,7 @@ The middle of the term (immediately after reading break) is dedicated to composi
 
 The end of the term is dedicated to your presentations (penultimate meeting) and workshopping your projects (last meeting). We'll also recap the seminar and our discussions of media aesthetics during the last meeting. Somewhere between the middle and the end, I'll ask you to meet with me to discuss your final project or essay. I'll give you two weeks after our last meeting to finalize and submit your project or essay.  
 
-## Materials 
+# Materials 
 
 I'm asking you to access most materials online via their URLs or a passcode-protected reader I've compiled. (See me for the ID and passcode.) Links are provided in the [schedule](#schedule).
 
@@ -119,129 +119,147 @@ Alongside these materials, I've dedicated a section of this syllabus to [notes](
 
 You'll notice that most of the assigned materials are from the 21st century. I made these selections in part because I think (or hope) they will spark some engaging, if not pressing, seminar discussions about speculation and the apparatuses of media and fiction; however, we'll still account for history in this course. For instance, during most modules I'll provide overviews of where the assigned materials "fit," and how, in media, fiction, and theory since 1900. I should also mention that my selections reflect an investment in narrative and storytelling. I did not include, for example, any artist's books or poetry, both of which are obviously relevant to studies of media and literature.  
 
-## Schedule 
+# Schedule 
 
 Here's the schedule for the term. I will notify you during seminar at least two weeks in advance of any changes. When materials are not open access or in the public domain, I abide by fair dealing guidelines. I also contributed to the artists' Patreon accounts, where applicable. 
 
 To keep us on schedule, expect an email from me to everyone in the seminar once (and only once) per week. That weekly email should also encourage transparency and help us all plan ahead. 
 
-### January 9th 
+## What's This All About? 
 
-*What's This All About?*: on the point of this seminar 
+January 9th: on the point of this seminar 
 
-*Did You Just Say "Aesthetics"?*: on sense and making sense, including some methods for media aesthetics 
+## Did You Just Say "Aesthetics"?
+
+January 9th: on sense and making sense, including some methods for media aesthetics 
 
 Please select the date and assigned material(s) for your first co-facilitation. I'll circulate a sign-up sheet. 
 
-### January 16th
+## Did You Get My Message?
 
-*Did You Get My Message?*: on messengers, curation, and relating with others (media: text; apparatus: network)     
+January 16th: on messengers, curation, and relating with others (media: text; apparatus: network)     
 
-Please read Nalo Hopkinson's ["Message in a Bottle"](http://jenteryteaches.com/noneshall/506/hopkinson.pdf) (2005).  
+Please read Nalo Hopkinson's ["Message in a Bottle"](http://jenteryteaches.com/noneshall/506/hopkinson.pdf) (2005). 
 
-*Dear You*: on worldbuilding, structural oppression, and being addressed (media: text; apparatus: engine)    
+## Dear You: 
+
+January 16th: on worldbuilding, structural oppression, and being addressed (media: text; apparatus: engine)    
 
 Please read selections from N.K. Jemisin's [*The Fifth Season*](http://jenteryteaches.com/noneshall/506/jemisin.pdf) (2015), which is the first book in Jemisin's *Broken Earth* trilogy. 
 
-### January 23rd 
+## Who's Calling? 
 
-*Who's Calling?*: on broadcasting, decoding, and colonial dissemination (media: audio, text; apparatus: editor, network)       
+January 23rd: on broadcasting, decoding, and colonial dissemination (media: audio, text; apparatus: editor, network)       
  
 Please listen to part one of Colin Grant's BBC documentary, [*Caribbean Voices*](http://jenteryteaches.com/noneshall/506/grant.mp3) (2009), about Una Marson, *Calling the West Indies*, and the *Caribbean Voices* radio program (1943-58).
 
-*Is Anyone Listening?*: on acousmatic voices, gaslighting, and shouting into the abyss (media: audio, text; apparatus: editor, network)      
+## Is Anyone Listening?
+
+January 23rd: on acousmatic voices, gaslighting, and shouting into the abyss (media: audio, text; apparatus: editor, network)      
 
 Please listen to Lucile Fletcher's [*Sorry, Wrong Number*](http://jenteryteaches.com/noneshall/506/fletcher.mp3) (1943).
 
-### January 30th 
+## You Already Said That.
 
-*You Already Said That*: on texture, snapshots, and novels that aren't novels (media: audio, text; apparatus: editor)    
+January 30th: on texture, snapshots, and novels that aren't novels (media: audio, text; apparatus: editor)    
 
 Please listen to all 14 selections / fragments from Gertrude Stein's [*The Making of Americans*](http://writing.upenn.edu/pennsound/x/Stein.php) (1911/1925; recorded at Columbia University's Speech Lab in 1935; care of PennSound). 
 
-*You Already Said That*: on memory, playback, and emotional rapport with machines (media: audio, text; apparatus: editor)        
+## You Already Said That. 
+
+January 30th: on memory, playback, and emotional rapport with machines (media: audio, text; apparatus: editor)        
 
 Please watch a video of Samuel Beckett's [*Krapp's Last Tape*](https://www.youtube.com/watch?v=otpEwEVFKLc) (first performed at the Royal Court Theatre in London in 1958, with Patrick Magee as Krapp and Donald McWhinnie directing). 
 
 Please select the date and assigned material(s) for your second co-facilitation. I'll circulate a sign-up sheet. 
 
-### February 6th 
+## What Are You Reading Next? 
 
-*What Are You Reading Next?*: on archives, allusions, method cartooning, and entwining the personal with the political (media: text, image; apparatus: grid, editor)     
+February 6th: on archives, allusions, method cartooning, and entwining the personal with the political (media: text, image; apparatus: grid, editor)     
 
 Please read Alison Bechdel's [*Fun Home: A Family Tragicomic*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) (2006). 
 
-### February 13th 
+## Property of . . . 
 
-*Property of . . .*: on graphic diaries, cross-hatching, and true stories that never happened (media: image, text; apparatus: grid)     
+: on graphic diaries, cross-hatching, and true stories that never happened (media: image, text; apparatus: grid)     
 
 Please read selections of Emil Ferris's [*My Favorite Thing Is Monsters*](http://jenteryteaches.com/noneshall/506/ferris.pdf) (2017). 
 
-*In a World . . .*: on voice-over, wayward guides, puzzles, and presence (media: image, audio; apparatus: stack, editor)     
+## In a World . . . 
+
+February 13th: on voice-over, wayward guides, puzzles, and presence (media: image, audio; apparatus: stack, editor)     
 
 Please play Marina Kittaka's [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014) for at least 30 minutes.
 
 Please submit your annotated bibliography today.  
 
-### February 20th 
+## Buffering . . . 
 
-*Buffering . . .*: on ellipses and waiting
+February 20th: on ellipses and waiting
 
 It's reading break. There's no seminar this week. 
 
-### February 27th 
+## Composing with Media
 
-*Composing with Media*: on integrating media and design into your scholarship 
+February 27th: on integrating media and design into your scholarship
 
-Please read "Introduction to *Pathfinders*" and "Shelley Jackson's *Patchwork Girl*" in Dene Grigar and Stuart Moulthrop's [*Pathfinders: Documenting the Experience of Early Digital Literature*](https://scalar.usc.edu/works/pathfinders/index) (2015).  
+[Jagoda piece] and Zinmam project 
 
-*Composing through Media*: on treating media and design as your scholarship 
+I also recommend "Introduction to *Pathfinders*" and "Shelley Jackson's *Patchwork Girl*" in Dene Grigar and Stuart Moulthrop's [*Pathfinders: Documenting the Experience of Early Digital Literature*](https://scalar.usc.edu/works/pathfinders/index) (2015) and Gregory Zinman's [*Handmade Cinema*](https://handmadecinema.com/) (2020). 
 
-Please watch Amanda Strong and Leanne Betasamosake Simpson's [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8) (2019) and read / play micha cárdenas and Bobby Bray's [*Redshift & Portalmetal*](https://micharoja.itch.io/redshift-and-portalmetal) (2014). 
+## Composing through Media 
+
+February 27th: on treating media and design as your scholarship 
+
+Please watch Amanda Strong and Leanne Betasamosake Simpson's [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8) (2019) and read / play micha cárdenas and Bobby Bray's [*Redshift & Portalmetal*](https://micharoja.itch.io/redshift-and-portalmetal) (2014). I also recommend [Jordan Abel's work](http://www.jordanabel.ca/). 
 
 We'll visit the [Obsolete Computing and Media](https://ocam.library.uvic.ca/index.php) collection in the library.  
 
-Please select the date and assigned material(s) for your third  co-facilitation. I'll circulate a sign-up sheet. 
+Please select the date and assigned material(s) for your third co-facilitation. I'll circulate a sign-up sheet. 
 
-### March 5th 
+## I Followed the Rules. 
 
-*I Followed the Rules*: on roleplay, executable language, and protocols for action (media: text; apparatus: engine)     
+March 5th: on roleplay, executable language, and protocols for action (media: text; apparatus: engine)     
 
 Please prototype a game using Avery Alder's [*Simple World*](https://buriedwithoutceremony.com/simple-world) (2013). You may also want to check out games made with the [Powered by the Apocalypse](http://apocalypse-world.com/pbta/) engine. 
 
 Please schedule a time to meet with me (20-30 minutes) about your project or essay.   
 
-### March 12th 
+## Click Here. 
 
-*Click Here*: on links, forks, and portals (media: text, image, audio; apparatus: stack, network)     
+March 12th: on links, forks, and portals (media: text, image, audio; apparatus: stack, network)     
 
 Please read / play Porpentine Charity Heartscape and Brenda Neotenomie's [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) (2014) for at least 45 minutes.  
 
-*Insert Yourself Here*: on simulation and the everyday paranormal (media: text, image, audio; apparatus: engine, grid)     
+## Insert Yourself Here.
+
+March 12th: on simulation and the everyday paranormal (media: text, image, audio; apparatus: engine, grid)     
 
 Please play [Fulbright's *Gone Home*](https://gonehome.game/) (2013) for at least 90 minutes. 
 
 Please submit your genealogy today.   
 
-### March 19th 
+## I'd Prefer Not To. 
 
-*I'd Prefer Not To*: on menus, refusal, and the design of encounters (media: text, image, audio; apparatus: grid, editor)     
+March 19th: on menus, refusal, and the design of encounters (media: text, image, audio; apparatus: grid, editor)     
 
-Please play [Toby Fox and Temmie Chang's *Undertale*](https://undertale.com/) (2015) for at least 90 minutes.  
+Please play [Toby Fox and Temmie Chang's *Undertale*](https://undertale.com/) (2015) for at least 90 minutes. 
 
-*Cannot Open File*: on being deprecated (media: text, image, audio; apparatus: stack, editor)  
+## Cannot Open File
+
+March 19th: on being deprecated (media: text, image, audio; apparatus: stack, editor)  
 
 Please read and watch [Young-Hae Chang Heavy Industries' *M00D 0F THE M0MENT*](https://web.archive.org/web/20071013012810/http://yhchang.com/MOOD_OF_THE_MOMENT.html) (2007). Try this [URL](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) if the first one doesn't work in your browser.  
 
-### March 26th  
+## Like and Subscribe.
 
-*Like and Subscribe*: on attention economics in the academy 
+March 26th: on attention economics in and beyond the academy 
 
 Please present an overview of your project or essay during seminar. Your presentation will be followed by a Q&A session and feedback.   
 
-### April 2nd 
+## What Happened? 
 
-*What Happened?*: on productivity and portfolios 
+April 2nd: on productivity and portfolios 
 
 We'll review what we did this term and discuss the use of portfolios in media and fiction studies. Then you'll workshop your projects and essays. 
 
@@ -259,11 +277,11 @@ I'm asking you to submit the following assignments this term:
 
 I will provide in this section of the syllabus a prompt and rubric for each of these assignments. Please email me your bibliography, genealogy, and final project or essay in PDF, where possible. (I realize that most projects probably won't export to PDF.) If you have materials from your co-facilitations and/or presentation, then please email me those documents, too. 
 
-## Notes 
+# Notes 
 
 As the term unfolds, I will share in this section notes, handouts, and reflections from seminar. Expect new content here almost every week of seminar.  
 
-## Policies 
+# Policies 
 
 ### Prerequisites 
 
@@ -321,8 +339,8 @@ UVic takes student mental health very seriously, with a [website](https://www.uv
 
 The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this seminar, but they're still important.
 
-## Acknowledgements 
+# Acknowledgements 
 
 As a faculty member who has the privilege to live and work as a guest on these lands, I acknowledge with respect that the University of Victoria is located on the unceded territory of the Lkwungen peoples and the Songhees, Esquimalt, and <u>W̱</u>SÁNEĆ First Nations, whose historical relationships with the land continue to this day.
 
-I owe a debt of gratitude to Daniel Anderson, Erin R. Anderson, Anna Anthropy, Kristin Arola, Moya Bailey, Cheryl Ball, Anne Balsamo, Nina Belojevic, Kathi Inman Berens, Lauren Berlant, Rachel Sagner Buurma, micha cárdenas, Steph Ceraso, Deb Chachra, Ed Chang, Kandice Chuh, Wendy Chun, Hillary Chute, Heidi Rae Cooley, Cathy Davidson, Tracey El Hajj, Lori Emerson, Mary Flanagan, Jacob Gaboury, David Gaertner, Alexander Galloway, Margaret Galvan, Alex Gil, Lisa Gitelman, Dene Grigar, Richard Grusin, Aimi Hamraie, Katherine Hayles, Sara Hendren, Stefan Higgins, Curtis Hisayasu, Patrick Jagoda, Kat Jungnickel, Matthew Kirschenbaum, Lauren Klein, Kim Knight, Kari Kraus, Virginia Kuhn, Elizabeth LaPensée, Alan Liu, Hector Lopez, Elizabeth Losh, Alexis Lothian, Shaun Macpherson, Mark Marino, Shannon Mattern, Ellen McCallum, Tara McPherson, W.J.T. Mitchell, Aimée Morrison, Stuart Moulthrop, Janet Murray, Timothy Murray, Lisa Nakamura, Alondra Nelson, Élika Ortega, Allison Parrish, John Durham Peters, Jessica Rajko, Howard Rambsy II, Rita Raley, Matt Ratto, Margaret Rhee, Roopika Risam, Daniela Rosner, Anastasia Salter, Mark Sample, Alana Sayers, Cynthia Selfe, Steven Shaviro, Karis Shearer, Emily Short, Leanne Betasamosake Simpson, Nick Sousanis, Jonathan Sterne, Jennifer Lynn Stoever, Jesse Stommel, Victoria Szabo, Cathy Thomas, Phillip Thurtle, Whitney Trettien, Bill Turkel, Annette Vee, Noah Wardrip-Fruin, Jacqueline Wernimont, Kathleen Woodward, Melanie Yergeau, and Gregory Zinman, whose approaches to teaching and research have especially influenced the construction of this syllabus.
+I owe a debt of gratitude to Daniel Anderson, Erin R. Anderson, Anna Anthropy, Kristin Arola, Moya Bailey, Cheryl Ball, Anne Balsamo, Nina Belojevic, Ruha Benjamin, Kathi Inman Berens, Lauren Berlant, Helen J Burgess, Rachel Sagner Buurma, micha cárdenas, Steph Ceraso, Deb Chachra, Ed Chang, Kandice Chuh, Wendy Chun, Hillary Chute, Beth Coleman, Heidi Rae Cooley, Cathy Davidson, Tracey El Hajj, Lori Emerson, Mary Flanagan, Jacob Gaboury, David Gaertner, Alexander Galloway, Margaret Galvan, Alex Gil, Lisa Gitelman, Dene Grigar, Richard Grusin, Aimi Hamraie, Katherine Hayles, Sara Hendren, Garnet Hertz, Paul Heyer, Stefan Higgins, Curtis Hisayasu, Patrick Jagoda, Kat Jungnickel, Matthew Kirschenbaum, Lauren Klein, Kim Knight, Kari Kraus, Virginia Kuhn, Elizabeth LaPensée, Alan Liu, Hector Lopez, Elizabeth Losh, Alexis Lothian, Shaun Macpherson, Mark Marino, Shannon Mattern, Ellen McCallum, Tara McPherson, W.J.T. Mitchell, Aimée Morrison, Stuart Moulthrop, Janet Murray, Timothy Murray, Lisa Nakamura, Alondra Nelson, Marcel O'Gorman, Élika Ortega, Allison Parrish, John Durham Peters, Jessica Rajko, Howard Rambsy II, Rita Raley, Matt Ratto, Margaret Rhee, Roopika Risam, Tara Rodgers, Daniela Rosner, Anastasia Salter, Mark Sample, Alana Sayers, Cynthia Selfe, Steven Shaviro, Karis Shearer, Emily Short, Leanne Betasamosake Simpson, Nick Sousanis, Jonathan Sterne, Jennifer Lynn Stoever, Jesse Stommel, Victoria Szabo, Cathy Thomas, Phillip Thurtle, Whitney Trettien, Bill Turkel, Annette Vee, Noah Wardrip-Fruin, Jacqueline Wernimont, Kathleen Woodward, Melanie Yergeau, and Gregory Zinman, whose approaches to teaching and research have especially influenced the construction of this syllabus.
