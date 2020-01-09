@@ -277,6 +277,36 @@ I'm asking you to submit the following assignments this term:
 
 I will provide in this section of the syllabus a prompt and rubric for each of these assignments. Please email me your bibliography, genealogy, and final project or essay in PDF, where possible. (I realize that most projects probably won't export well, if at all, to PDF.) If you have materials from your co-facilitations and/or presentation, then please email me those documents, too. 
 
+**Co-Facilitations** 
+
+I'm asking you to co-facilitate (with me and your peers) three seminar discussions this term. The aim of co-facilitation is to spark and sustain conversation about a work (on the schedule) you selected. I'll circulate sign-up sheets for co-facilitations, and we'll distribute the co-facilitations over the course of the term. You should plan to co-facilitate for 60 or so minutes of seminar. The rubric below should give you a sense of possible approaches. Please note that co-facilitations are not presentations. 
+
+90-100 = A+: Co-facilitation in this range demonstrates an incredibly high level of engagement. You researched the work you selected, you sparked dialogue about it with your peers and me, you listened attentively to others in seminar (without dominating the conversation or even speaking that often), you took and shared notes when helpful, and you asked compelling questions that prompted an array of responses. You brought handouts, slides, or notes to guide conversation, and you kept us grounded in particular aspects of the work, without any tangents. During our discussion, we attended to matters of apprehension and comprehension as well as synthesis and evaluation of the work. You planned ahead and ran draft materials by other facilitators, including your peers and me. Where useful, you co-authored materials with other student co-facilitators. 
+
+85-89 = A: Co-facilitation in this range demonstrates a high level of engagement. You researched the work you selected, you sparked dialogue about it with your peers and me, you listened attentively to others in seminar (without dominating the conversation or even speaking that often), you took and shared notes when helpful, and you asked compelling questions that prompted an array of responses. You kept us grounded in particular aspects of the work, without many tangents. During our discussion, we attended to matters of apprehension and comprehension as well as synthesis and evaluation of the work. You planned ahead and ran draft materials by other facilitators, including your peers and me. 
+
+80-84 = A-: Co-facilitation in this range demonstrates a notable level of engagement. You researched the work you selected, you sparked dialogue about it with your peers and me, you listened to others in seminar (without dominating the conversation or even speaking that often), and you asked questions that prompted an array of responses. You kept us grounded in particular aspects of the work. During our discussion, we attended to matters of apprehension and/or comprehension as well as synthesis and/or evaluation of the work. You planned ahead and ran draft materials by other facilitators, including your peers and me.  
+
+77-79 = B+: Co-facilitation in this range demonstrates a moderate level engagement. You sparked dialogue about your selected work with your peers and me, you listened to others in seminar, and you asked questions that prompted some responses. During our discussion, we attended to matters of apprehension and/or comprehension as well as synthesis and/or evaluation of the work. You planned ahead and ran draft materials by other facilitators, including your peers and me.  
+
+73-76 = B: Co-facilitation in this range would benefit from more engagement. You sparked some dialogue about your selected work with your peers and me, and you asked questions that prompted some responses. During our discussion, we attended mostly to matters of apprehension and/or comprehension.
+
+**Annotated Bibliography** 
+
+Prompt coming soon.  
+
+**Genealogy** 
+
+Prompt coming soon.  
+
+**Presentation** 
+
+Prompt coming soon. 
+
+**Final Project or Essay** 
+
+Prompt coming soon.  
+
 # Notes 
 
 As the term unfolds, I will share in this section my notes and reflections. Expect new content here almost every week of seminar.  
