@@ -165,7 +165,7 @@ Please listen to Lucile Fletcher's [*Sorry, Wrong Number*](http://jenteryteaches
 
 January 30th: on texture, snapshots, and novels that aren't novels (media: audio, text; apparatus: editor)    
 
-Please listen to all 14 of [these recordings](http://writing.upenn.edu/pennsound/x/Stein.php) by Gertrude Stein, including the 8 fragments from *The Making of Americans* (1911/1925; recorded at Columbia University's Speech Lab in 1935; care of PennSound). 
+Please listen to all [14 recordings](http://writing.upenn.edu/pennsound/x/Stein.php) by Gertrude Stein listed under "From *The Making of Americans*" (from "Comments on..." to "George Hugnet") (1911/1925; recorded at Columbia University's Speech Lab in 1935; care of PennSound). 
 
 ## You Already Said That. 
 
