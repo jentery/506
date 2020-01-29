@@ -464,6 +464,106 @@ An apparatus has clear implications for design, yet it's relevant to studies of 
 
 These aren't recipes for genres, and this isn't an exercise in totalization (as if one list could capture everything about genre). It's simply a starting point for approaching media in fiction through an apparatus. I return to the notion of genre later in this course. For now, I'll repeat here my definition of it: "genre: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of engaging fiction." The apparatus of media, or how they're measured, shapes these conventions and expectations.  
 
+### Modes
+
+As part of "apprehension" in [the 20 m's](#the-20-ms), you may want to consider the modes or senses engaged. Modes and senses are about how people's bodies are engaged or addressed by fiction. Here are some ways to think about modes and senses:  
+
+* Through the five senses (hearing, seeing, tasting, smelling, and touching), including which are engaged more than others by the work(s) of fiction at hand.  
+* WOVEN: writing (including reading), oral (what's said and heard), visual (colour, layout, and images, for instance), electronic (how the work transmits media, and whether it's electronic), and nonverbal (gesture, audio, and movement, for instance). Thanks to [Georgia Tech's Writing and Communication Program](https://wcprogram.lmc.gatech.edu/posters/woven) for this approach and the acronym, WOVEN. 
+* Agency: are you moving / engaging with or against the work? Maybe somewhere in between? What's the flow? Are you in, or do you want to be in, control? 
+
+The modes and senses of the 20 m's prompt considerations of *attention and how we attend*.  
+
+### Mood
+
+As part of "apprehension" in [the 20 m's](#the-20-ms), you might want to consider the mood. The mood is about being in the world and engaging fiction. What's the work's vibe or feel? Here are some ways to think about mood: 
+
+* Describe the work as an encounter. What or whom are you encountering? Does it feel close or distant? 
+* Describe the work as an atmosphere. What's the "weather" of the work? 
+* Describe the work's tone. Is it serious? Playful? Vauge? Direct? 
+* Describe the work as a feeling. Any goosebumps? What emotions or experiences do you associate with it? 
+
+Mood prompts considerations of *distance, immediacy, or familiarity.* 
+
+### Measure 
+
+As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consider measurements. To measure is to assess and/or quantify media, fiction, and engagements with them. Here are some ways to think about measurements:  
+
+* Length: the work as pages, words, or minutes, e.g.  
+* Progress: the work as levels or the distance to the end, e.g.
+* Success: the work as points or a collection, e.g.
+* Body/Content: the work as chapters, worlds, scenarios, or episodes, e.g. 
+* Presentation: the work as its screen (size), resolution, compression, or fidelity, e.g.  
+* Attention: the work as clicks, views, sales, or ratings, e.g. 
+
+Measurements prompt considerations of *value and apparatus*. 
+
+### Main Content 
+
+As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consider the main content or story. Here are some ways to think about it: 
+
+* Characters: humans, robots, nonhuman animals, mythological, and even environments or parts of the environment  
+* Setting: time, place, and location of the story 
+* Plot: major events and what happens, typically understood through exposition, rising action, climax, falling action, and denouement / resolution   
+* Theme: core ideas, threads, and even morals / lessons
+* Conflict: between characters, events, groups, and/or environments (the tension upon which the story relies) 
+* Point of view: first, second, or third-person (omniscient or limited)
+
+The main content prompts considerations of *who, what, when, and where*.  
+
+### Meta
+
+As part of "synthesis" in [the 20 m's](#the-20-ms), you might get meta about how the story is told. Here are some ways to get meta. Consider the:  
+
+* Situation: What's known or taken for granted in the work? How do characters understand each other (or so we assume)?
+* World: What's the scope and scale of the setting and its systems, history, mythologies, and/or landscape? How is the world of the work bigger or more expansive than the story itself? 
+* Duration: How long does the story take to communicate certain things? How does it use abbreviation, summary, stretched time, or warped time? What moves quickly? What doesn't? 
+* Frequency: What's repeated? What are the patterns or textures of the work? 
+* Sequencing: How is the work arranged chronologically (analepsis, prolepsis) and non-chronologically? How does it use leveling (progressive disclosure)? Or branching (map or tree)?  
+* Evocation: How does the work draw on memories and resemblances?  
+* Focalization: How do we get our knowledge from characters and/or narrators (zero = omniscient narrator who knows more than characters, internal = narrator is a character and thus knows what the character knows, and external focalization = narator or camera eye telling less than what characters know)?
+* Narration (compare with plot above): How is the story told? Often involves abstract (summary), orientation (time and place), complicating action, resolution (climax), evaluation (commentary or elucidation), and coda (time of story meets time of narrative).
+
+The meta stuff prompts considerations of *design, style, and structure*. 
+
+### Massage
+
+As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
+
+* Is the work securing consensus? If so, then how? And what sort of consensus? 
+* Is the work a distraction? If so, then how? And from what? 
+* Is the work immersive? If so, then how? And in what?  
+* Does the work involve interaction? Does it invite input? Or maybe dialogue? If so, then how does it change, if at all, with each interaction? 
+* Does the work have a rhythm? If so, then what is it? And how does it affect flow?  
+* Does the work involve simultaneity? Does it ask you to balance things or to mulitask? If so, then to what effects? 
+* Does the work address you (hey you! hi there)? If so, then how? Directly or indirectly? Under what assumptions?       
+
+Massaging and manipulation prompt considerations of *motivation and ideology*.
+
+### The Engine of *The Fifth Season* 
+
+Notes coming soon.  
+
+### The Network of "Message in a Bottle"
+
+Notes coming soon.  
+
+### The Network of *Caribbean Voices* 
+
+Notes coming soon. 
+
+### The Network of *Sorry, Wrong Number* 
+
+Notes coming soon. 
+
+### The Editor of *The Making of Americans* 
+
+Notes coming soon. 
+
+### The Editor of *Krapp's Last Tape* 
+
+Notes coming soon. 
+
 # Policies 
 
 ### Prerequisites 
