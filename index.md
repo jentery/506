@@ -293,15 +293,39 @@ I'm asking you to co-facilitate (with me and your peers) three seminar discussio
 
 **Annotated Bibliography** 
 
-Prompt coming soon.  
+Your annotated bibliography should help you to begin researching your final project or essay for this seminar. It should include at least ten sources, but no more than fifteen. Five (no more, no less) of the sources should be peer-reviewed journal articles. At least five other sources should be primary sources, such as works of fiction. Sources may be formatted according to MLA, APA, or Chicago. Each source should be accompanied by one or two descriptive sentences (what is it about? what's the argument or technique used?) as well as one or two evaluative sentences (why is it interesting? why might it be useful for your project or essay?). Note that the aim of your final project or essay is to engage media aesthetics via a particular technique that articulates or entwines media with fiction. So, not "maps and fantasy novels" or "audio and science fiction" but, for instance, worldbuilding or the use of second person in specific works of fantasy or science fiction. Please also note that I'm encouraging comparative, multi-author approaches to techniques at play in the 20th and 21st centuries. (The genealogy, due later in the term, should help with this element of the final project or essay.) At the top of the bib, please include no more than five sentences explaining the technique you're considering (you may certainly change your mind down the line) and why you think that technique may interest folks working in / around media aesthetics (what sort of questions or research does it spark?) At this point in the research, you can focus more on technique than authors or fictions. Before you select a technique, I recommend reviewing the 20 m's (see "Notes" below) as well as the schedule for the seminar through the end of March. Maybe there's something on the schedule that interests you, but we've not yet discussed it? You're of course welcome to run ideas by me. I'm around. 
+
+The components of the annotated bib, then: 
+
+* Research on a project related to a technique at play in the 20th and 21st centuries that articulates or entwines media (audio, image, text) with fiction 
+* At the top of the bib, no more than five sentences explaining the technique and why it's interesting 
+* Between 10 and 15 sources in the bib 
+* Five (no more, no less) sources should be peer-reviewed journal articles 
+* At least five more sources should be primary sources, such as works of fiction 
+* One or two descriptive sentences for each source (what is it about? what's the argument or technique?)
+* One or two evaluative sentences for each source (why is it important? why might it be useful for your work?)
+* Formatted in MLA, Chicago, or APA 
+* Submitted to me by email 
+
+Here's the rubric: 
+
+90-100 = A+: The annotated bibliography demonstrates research on a technique at play in the 20th and 21st centuries that articulates or entwines media with fiction. It explains the technique and why it may be interesting to people working in or around media aesthetics. It includes fifteen sources, five of which are peer-reviewed journal articles and at least five others that are primary sources. All sources are formatted according to MLA, Chicago, or APA. Each source is accompanied by descriptive and evaluative annotations that are clear, precise, and even insightful in their pithiness. The bibliography as a whole presents a compelling and potentially publishable seminar essay or project. Its engagement with media aesthetics and the selected technique is original yet supported by precedent in fiction, media, and/or literary and media studies.  
+
+85-89 = A: The annotated bibliography demonstrates research on a technique at play in the 20th and 21st centuries that articulates or entwines media with fiction. It explains the technique and why it may be interesting to people working in or around media aesthetics. It includes fifteen sources, five of which are peer-reviewed journal articles and at least five others that are primary sources. All sources are formatted according to MLA, Chicago, or APA. Each source is accompanied by descriptive and evaluative annotations that are clear and precise. The bibliography as a whole presents a compelling seminar essay or project. Its engagement with media aesthetics and the selected technique is convincing and also supported by precedent in fiction, media, and/or literary and media studies.
+
+80-84 = A-: The annotated bibliography demonstrates research on a technique at play in the 20th and 21st centuries that articulates or entwines media with fiction. It explains the technique and why it may be interesting to people working in or around media aesthetics. It includes at least ten sources, five of which are peer-reviewed journal articles and at least five others that are primary sources. All sources are formatted according to MLA, Chicago, or APA. Each source is accompanied by descriptive and evaluative annotations that are clear. The bibliography as a whole presents a promising seminar essay or project. Its engagement with media aesthetics and the selected technique is supported by precedent in fiction, media, and/or literary and media studies.
+
+77-79 = B+: The annotated bibliography demonstrates research on a technique at play in the 20th and 21st centuries that articulates or entwines media with fiction. It explains the technique and why it may be interesting to people working in or around media aesthetics. It includes at least ten sources, five of which are peer-reviewed journal articles and at least five others that are primary sources. All sources are formatted according to MLA, Chicago, or APA. Each source is accompanied by descriptive and evaluative annotations that are clear. The bibliography as a whole presents a potential framework for a seminar essay or project. Its engagement with media aesthetics and the selected technique is supported by some precedent in fiction, media, and/or literary and media studies.
+ 
+73-76 = B: The annotated bibliography demonstrates research on a technique at play in the 20th and 21st centuries that articulates or entwines media with fiction. It explains the technique and why it may be interesting to people working in or around media aesthetics. It includes at least ten sources, five of which are peer-reviewed journal articles and at least five others that are primary sources. All sources are formatted according to MLA, Chicago, or APA. Each source is accompanied by descriptive and evaluative annotations that are mostly clear. The bibliography as a whole presents an idea for a seminar essay or project. Its engagement with media aesthetics and the selected technique is supported by some precedent in fiction, media, and/or literary and media studies.
 
 **Genealogy** 
 
-Prompt coming soon.  
+Prompt and rubric coming soon.  
 
 **Presentation** 
 
-Prompt coming soon. 
+Prompt and rubric coming soon. 
 
 **Final Project or Essay** 
 
