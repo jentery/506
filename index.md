@@ -360,6 +360,8 @@ From our first meeting (January 9th), here are some definitions of key terms I'm
 
 Again, these definitions are not exhaustive. I'm providing them to render transparent my own assumptions and approaches. Equally important, definitions are often quite fuzzy or contingent with history and culture. They are more like guides for situations than answers to important questions, and they should be approached with a healthy dose of skepticism. What's missing from them? What do people want from them? What makes them work? I thus hope you'll question and revise these definitions rather than adopting them wholesale for deployment in this seminar or elsewhere.  
 
+---
+
 ### Why Media?
 
 What is the point of studying media and fiction together in the 2020s? Consider the following list, introduced during our first meeting (January 9th). It translates how this seminar applies generally to the practice of communication and specifically to its analytical, structural, social, cultural, and practical dimensions. None of these applications is restricted to the academy. 
@@ -375,6 +377,8 @@ Approaching media and fiction together attends to matters of:
 * **Design**, or the *interface of communication*, including what people notice and ignore and how they navigate content and context. 
 
 I use the acronym **SCANNED** (I know, I know . . .) to remember this list and to state succinctly why people might approach media and fiction together.
+
+---
 
 ### The 20 M's
 
@@ -437,6 +441,8 @@ Again, consider taking notes for each of these but developing a response to just
 
 Consider how a given work of media and fiction intersects with your own interests and trajectories and then determine how to communicate these intersections to (or with) other people. 
 
+---
+
 ### Apparatuses
 
 Approaches to media in fiction rely heavily on how media are measured: how they are divided into components and then isolated, traversed, compared, contrasted, and the like. These components are not the inevitable output of technologies. They are decisions with histories, norms, and expectations. That is, they are made and used often, they have conventions, and people want or assume particular experiences from them. They are also entwined with disciplines and discourses, such as how people talk about games, comics, radio, and books. A mechanism for the production of these components may be called an "apparatus."
@@ -464,6 +470,8 @@ An apparatus has clear implications for design, yet it's relevant to studies of 
 
 These aren't recipes for genres, and this isn't an exercise in totalization (as if one list could capture everything about genre). It's simply a starting point for approaching media in fiction through an apparatus. I return to the notion of genre later in this course. For now, I'll repeat here my definition of it: "genre: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of engaging fiction." The apparatus of media, or how they're measured, shapes these conventions and expectations.  
 
+---
+
 ### Modes
 
 As part of "apprehension" in [the 20 m's](#the-20-ms), you may want to consider the modes or senses engaged. Modes and senses are about how people's bodies are engaged or addressed by fiction. Here are some ways to think about modes and senses:  
@@ -473,6 +481,8 @@ As part of "apprehension" in [the 20 m's](#the-20-ms), you may want to consider 
 * Agency: are you moving / engaging with or against the work? Maybe somewhere in between? What's the flow? Are you in, or do you want to be in, control? 
 
 The modes and senses of the 20 m's prompt considerations of *attention and how we attend*.  
+
+---
 
 ### Mood
 
@@ -484,6 +494,8 @@ As part of "apprehension" in [the 20 m's](#the-20-ms), you might want to conside
 * Describe the work as a feeling. Any goosebumps? What emotions or experiences do you associate with it? 
 
 Mood prompts considerations of *distance, immediacy, or familiarity.* 
+
+---
 
 ### Measure 
 
@@ -498,6 +510,8 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consid
 
 Measurements prompt considerations of *value and apparatus*. 
 
+---
+
 ### Main Content 
 
 As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consider the main content or story. Here are some ways to think about it: 
@@ -510,6 +524,8 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consid
 * Point of view: first, second, or third-person (omniscient or limited)
 
 The main content prompts considerations of *who, what, when, and where*.  
+
+---
 
 ### Meta
 
@@ -526,6 +542,8 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), you might get meta about how
 
 The meta stuff prompts considerations of *design, style, and structure*. 
 
+---
+
 ### Massage
 
 As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
@@ -540,29 +558,13 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider 
 
 Massaging and manipulation prompt considerations of *motivation and ideology*.
 
-### The Engine of *The Fifth Season* 
+---
 
-Notes coming soon.  
+### Reflections on the Seminar 
 
-### The Network of "Message in a Bottle"
+Coming soon. 
 
-Notes coming soon.  
-
-### The Network of *Caribbean Voices* 
-
-Notes coming soon. 
-
-### The Network of *Sorry, Wrong Number* 
-
-Notes coming soon. 
-
-### The Editor of *The Making of Americans* 
-
-Notes coming soon. 
-
-### The Editor of *Krapp's Last Tape* 
-
-Notes coming soon. 
+---
 
 # Policies 
 
