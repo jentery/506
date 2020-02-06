@@ -390,9 +390,9 @@ We'll use 20 words starting with the letter "m" to facilitate our study of media
 
 "What's happening here?" Apprehension is about impressions, sensations, and evocations. It's about the moment, which may be familiar. "I've felt this before." While experience may feel personal, it's social, too. It's structured by media and fiction, and it's shaped by design.   
 
-* Describe the *materials* used. 
-* Describe the *modes* or senses engaged. 
-* Describe the *mood* inhabited or experienced. 
+* Describe the [*materials*](#materials) used. 
+* Describe the [*modes*](#modes) or senses engaged. 
+* Describe the [*mood*](#mood) inhabited or experienced. 
 
 Consider recording or annotating your (initial) engagement in real time (like an unboxing video or Let's Play), if only for your own records. With express consent, you might do the same for someone else and then compare your results. Account for eye rolls and anxious feelings as well: what's off-putting, predictable, unclear, discomfiting, frustrating . . . Apprehension isn't necessarily appreciation.   
 
@@ -400,10 +400,10 @@ Consider recording or annotating your (initial) engagement in real time (like an
 
 "What's this about?" Comprehension is about expressions, understanding, and situating things. It's about making sense after the fact&mdash;identifying and arranging the parts. While it may feel impersonal, it's nevertheless motivated. People usually want meaning and even purpose from media and fiction. 
 
-* Describe the *modules* or parts of the work. 
-* Describe the units used to *measure* the work and its parts.  
-* Describe the *main content* of the story (who, what, when, and where).
-* Describe the work's history, its network, and its *moment* of composition (who, what, when, and where). 
+* Describe the [*modules*](#modules) or parts of the work. 
+* Describe the units used to [*measure*](#measure) the work and its parts.  
+* Describe the [*main content*](#main-content) of the story (who, what, when, and where).
+* Describe the work's history, its network, and its [*moment*](#moment) of composition (who, what, when, and where). 
 
 Consider distilling the work, reflecting on it, and even graphing its parts, story, and/or relation to other works in its network. Note how and when these practices are about control, or the pleasure of making sense of things. When is control problematic? What do graphs or classifications get wrong? 
 
@@ -411,12 +411,12 @@ Consider distilling the work, reflecting on it, and even graphing its parts, sto
 
 "How does it all come together?" Synthesis is about boundaries and relations. It entwines apprehension with comprehension. It connects materials with abstractions and personal experiences with structures and designs. It's never total or complete; it can't and shouldn't account for all the things.  
 
-* Describe how (you assume) the work was *made*. 
-* Get *meta*. Describe how the story is told.
-* Describe what the work *means* (or its multiple, incongruous *meanings*). 
-* Describe how it *massages* or *manipulates* people's senses.
+* Describe how (you assume) the work was [*made*](#made). 
+* Get [*meta*](#meta). Describe how the story is told.
+* Describe what the work [*means*](#means) (or its multiple, incongruous *meanings*). 
+* Describe how it [*massages*](#massage) or [*manipulates*](#massage) people's senses.
 * Describe how people *move* with, within, across, and beyond it. 
-* Describe what *motivates* people to return to and/or identify with it. 
+* Describe what [*motivates*](#motivates) people to return to and/or identify with it. 
 * Describe how it and responses to it have *morphed* over time. 
 * Describe how it is or would be collected and *maintained* over time. 
 
@@ -426,7 +426,7 @@ Consider taking notes for each of these but developing a response to just one or
 
 "So what?" Evaluation is about assessment, or why people should care about the work and engagements with it. Evaluations have intended audiences; knowing that audience and their expectations focuses the inquiry. 
 
-* Describe how the work *mediates* its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
+* Describe how the work [*mediates*](#mediates) its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
 * Describe who and what it *misses*, ignores, or essentializes.  
 * Describe the *memories* it elicits and how it elicits them. 
 * Describe how it functions as *mimesis* (show, drama) and diegesis (tell, narrative) within and against its network.  
@@ -469,6 +469,22 @@ An apparatus has clear implications for design, yet it's relevant to studies of 
 * **To (address)**: privileges interpellation (hey you!) or identification (it me!) via components of audio, image, and/or text; address is common in *simulation and coming-of-age fiction*    
 
 These aren't recipes for genres, and this isn't an exercise in totalization (as if one list could capture everything about genre). It's simply a starting point for approaching media in fiction through an apparatus. I return to the notion of genre later in this course. For now, I'll repeat here my definition of it: "genre: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of engaging fiction." The apparatus of media, or how they're measured, shapes these conventions and expectations.  
+
+---
+
+### Materials
+
+As part of "apprehension" in the 20 M's, you may want to consider the materials used in the work of fiction. Materials are about the work as matter and physical substance. Here are some ways to think about materials:  
+
+* Presence: can you touch or handle it? 
+* Texture: is it smooth or rough? 
+* Emphemera: what about it disappears, or what's ghostly or mutable about it? 
+* Visibility: what materials can you see? not see?  
+* Audibility: does it make a sound? what materials can you hear?
+* Packaging: is it packaged? if so, describe the packaging. 
+* Recording: how is it recorded? can you handle or see the record? 
+
+The materials of the 20 M's prompt considerations of the work as *stuff*. 
 
 ---
 
