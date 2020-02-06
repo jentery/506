@@ -426,7 +426,7 @@ Consider taking notes for each of these but developing a response to just one or
 
 "So what?" Evaluation is about assessment, or why people should care about the work and engagements with it. Evaluations have intended audiences; knowing that audience and their expectations focuses the inquiry. 
 
-* Describe how the work [*mediates*](#mediates) its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
+* Describe how the work *mediates* its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
 * Describe who and what it *misses*, ignores, or essentializes.  
 * Describe the *memories* it elicits and how it elicits them. 
 * Describe how it functions as *mimesis* (show, drama) and diegesis (tell, narrative) within and against its network.  
@@ -515,7 +515,7 @@ Mood prompts considerations of *distance, immediacy, or familiarity.*
 
 ### Modules
 
-As part of "comprehension" in [the 20 M's](#the-20-ms), you might want to consider modules, which draw attention the work's composition and arrangement. Here are some ways to think about modules: 
+As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consider modules, which draw attention the work's composition and arrangement. Here are some ways to think about modules: 
 
 * Is the work available as a collection of component parts or files? If so, describe them. (Consider a website, for instance. It may have HTML, CSS, and media files.)
 * Describe the components of the work's composition, even if they are not available as a collection of parts or files. (Consider radio drama or podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles.) 
@@ -556,7 +556,7 @@ The main content prompts considerations of *shared interpretation*, or what puts
 
 ### Moment
 
-As part of "comprehension" in [the 20 M's](#the-20-ms), you might want to consider the moment(s) of the work's composition, circulation, and reception. The moment is about context. Here are some ways to think about a moment: 
+As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consider the moment(s) of the work's composition, circulation, and reception. The moment is about context. Here are some ways to think about a moment: 
 
 * Identify who was involved in the work. Consider who got credit and for what. 
 * Identify when it was made and circulated. Consider what other kinds of work were popular at that time. 
@@ -570,14 +570,14 @@ The moment prompts considerations of *shared situations*, or what about a work p
 
 ### Made
 
-As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to consider how the work was made. How did it come together? How did this become that? Of note, it's pretty much impossible to fully capture and describe this process, even if you can access, say, notes, documentation, or designer diaries. But here are some ways to determine or conjecture how a work was made: 
+As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider how the work was made. How did it come together? How did this become that? Of note, it's pretty much impossible to fully capture and describe this process, even if you can access, say, notes, documentation, or designer diaries. But here are some ways to determine or conjecture how a work was made: 
 
 * Visit a collection in person or online. Libraries, archives, and museums often have materials describing and/or documenting how works were made. 
 * Use the [Wayback Machine](https://archive.org/web/) or a similar service to compare versions of a work over time. (See "Morphed" below, too.) 
 * Read blogs and the like. Maybe those involved in the work shared their process in writing, through video, etc. 
 * Imitate the work. Make your own personal copy of it and document the process along the way. 
 * Deconstruct the work. If possible, take it apart, put it back together, and document the process along the way.  
-* Play it backwards. Start at the end, work your way to the beginning, and document the process along the way. 
+* Go backwards. Start at the end, work your way to the beginning, and document the process (or experience) along the way. 
 * Check the source code, if available and applicable. You might find some insightful comments there. 
 
 Made prompts considerations of *process* over product.  
@@ -603,7 +603,7 @@ The meta stuff prompts considerations of *design, style, and structure*.
 
 ### Means
 
-As part of "synthesis" in [the 20 M's](#the-20-ms), you might want to consider what the work means to you and others. Meaning is produced in all sorts of ways. Here are some ways to think about it:   
+As part of "synthesis" in [the 20 m's](#the-20-ms), you might want to consider what the work means to you and others. Meaning is produced in all sorts of ways. Here are some ways to think about it:   
 
 * Describe why the work is, or was, considered to be important in a given moment, or why people say it matters.  
 * Describe how the work produces multiple, even incongruous interpretations. Or, describe why people interpret it in multiple, even incongruous ways. 
@@ -632,7 +632,7 @@ Massaging and manipulation prompt considerations of *discipline and ideology*.
 
 ### Motivates
 
-As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to consider what motivates people to attend and return to a work. Here are some ways to approach such motivation:  
+As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider what motivates people to attend and return to a work. Here are some ways to approach such motivation:  
 
 * Describe the work as a community, network, or social experience. What brought or brings people to it? 
 * Describe the work as an embodied experience. What's pleasurable (or not) about it?  
@@ -683,17 +683,11 @@ May be defined as what's said by a speaker who is either not seen or is communic
 * Communication, or contact between narrator and narrated 
 * Direction, where the narrator remarks on what's seen or happening 
 * Testimony, where the narrator develops a moral, affective, or intellectual relationship with what's seen or happening
-* Ideology, where the narrator speaks for, about, and with the narrated 
+* Representation, where the narrator speaks for, about, and with the narrated 
 
 The voice-over may be recognized for the "grain" of the voice (its signature) or the "voice" of the grain (the signature or trace of a sound recording on wax, vinyl, tape, etc.). People often want to hear themselves in voices (see Echo and Narcissus). What happens when they don't? 
 
-I'm borrowing some of this language from Sarah Kozloff and Roland Barthes. 
-
----
-
-### Reflections on the Seminar 
-
-Coming soon. 
+I'm borrowing some of this language from Sarah Kozloff. Linda Martín Alcoff, and Roland Barthes. 
 
 ---
 
