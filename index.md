@@ -390,7 +390,7 @@ We'll use 20 words starting with the letter "m" to facilitate our study of media
 
 "What's happening here?" Apprehension is about impressions, sensations, and evocations. It's about the moment, which may be familiar. "I've felt this before." While experience may feel personal, it's social, too. It's structured by media and fiction, and it's shaped by design.   
 
-* Describe the [*materials*](#materials) used. 
+* Describe the [*materials*](#material) used. 
 * Describe the [*modes*](#modes) or senses engaged. 
 * Describe the [*mood*](#mood) inhabited or experienced. 
 
@@ -472,7 +472,7 @@ These aren't recipes for genres, and this isn't an exercise in totalization (as 
 
 ---
 
-### Materials
+### Material
 
 As part of "apprehension" in the 20 M's, you may want to consider the materials used in the work of fiction. Materials are about the work as matter and physical substance. Here are some ways to think about materials:  
 
