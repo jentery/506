@@ -474,7 +474,7 @@ These aren't recipes for genres, and this isn't an exercise in totalization (as 
 
 ### Material
 
-As part of "apprehension" in the 20 M's, you may want to consider the materials used in the work of fiction. Materials are about the work as matter and physical substance. Here are some ways to think about materials:  
+As part of "apprehension" in [the 20 m's](#the-20-ms), you may want to consider the materials used in the work of fiction. Materials are about the work as matter and physical substance. Here are some ways to think about materials:  
 
 * Presence: can you touch or handle it? 
 * Texture: is it smooth or rough? 
@@ -484,7 +484,7 @@ As part of "apprehension" in the 20 M's, you may want to consider the materials 
 * Packaging: is it packaged? if so, describe the packaging. 
 * Recording: how is it recorded? can you handle or see the record? 
 
-The materials of the 20 M's prompt considerations of the work as *stuff*. 
+Materials prompt considerations of the work as *stuff*. 
 
 ---
 
@@ -496,7 +496,7 @@ As part of "apprehension" in [the 20 m's](#the-20-ms), you may want to consider 
 * WOVEN: writing (including reading), oral (what's said and heard), visual (colour, layout, and images, for instance), electronic (how the work transmits media, and whether it's electronic), and nonverbal (gesture, audio, and movement, for instance). Thanks to [Georgia Tech's Writing and Communication Program](https://wcprogram.lmc.gatech.edu/posters/woven) for this approach and the acronym, WOVEN. 
 * Agency: are you moving / engaging with or against the work? Maybe somewhere in between? What's the flow? Are you in, or do you want to be in, control? 
 
-The modes and senses of the 20 m's prompt considerations of *attention and how we attend*.  
+Modes and senses prompt considerations of *attention and how we attend*.  
 
 ---
 
@@ -510,6 +510,17 @@ As part of "apprehension" in [the 20 m's](#the-20-ms), you might want to conside
 * Describe the work as a feeling. Any goosebumps? What emotions or experiences do you associate with it? 
 
 Mood prompts considerations of *distance, immediacy, or familiarity.* 
+
+---
+
+### Modules
+
+As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consider modules, which draw attention the work's design and structure. Here are some ways to think about modules: 
+
+* Is the work available as a collection of component parts or files? If so, describe them. (Consider a website, for instance. It may have HTML, CSS, and media files.)
+* Describe the components of the work's composition, even if they are not available as a collection of parts or files. (Consider radio drama or podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles.) 
+
+Modules prompt considerations of the *relationships between parts and whole*. 
 
 ---
 
