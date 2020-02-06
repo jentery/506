@@ -535,7 +535,7 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consid
 * Presentation: the work as its screen (size), resolution, compression, or fidelity, e.g.  
 * Attention: the work as clicks, views, sales, or ratings, e.g. 
 
-Measurements prompt considerations of *value and apparatus*. 
+Measurements prompt considerations of *value*. 
 
 ---
 
@@ -550,7 +550,21 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consid
 * Conflict: between characters, events, groups, and/or environments (the tension upon which the story relies) 
 * Point of view: first, second, or third-person (omniscient or limited)
 
-The main content prompts considerations of *who, what, when, and where*.  
+The main content prompts considerations of *shared interpretation*, or what puts people on the same page.  
+
+---
+
+### Moment
+
+As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consider the moment(s) of the work's composition, circulation, and reception. The moment is about context. Here are some ways to think about a moment: 
+
+* Identify who was involved in the work. Consider who got credit and for what. 
+* Identify when it was made and circulated. Consider what other kinds of work were popular at that time. 
+* Describe what was happening when it was made and circulated. Consider important historical, cultural, and artistic events as well as what the authors / artists were doing at (or around) the time. 
+* Describe where the work was made and circulated. Consider its network, geographic location, and "scene." In some cases, the network may be quite literal: a radio or tv network, for instance. 
+* Describe its reception over time. Compare its reception now with its reception then. 
+
+The moment prompts considerations of *shared situations*, or what about a work puts people in the same space and/or time. 
 
 ---
 
