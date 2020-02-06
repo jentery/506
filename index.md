@@ -515,7 +515,7 @@ Mood prompts considerations of *distance, immediacy, or familiarity.*
 
 ### Modules
 
-As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consider modules, which draw attention the work's composition and arrangement. Here are some ways to think about modules: 
+As part of "comprehension" in [the 20 M's](#the-20-ms), you might want to consider modules, which draw attention the work's composition and arrangement. Here are some ways to think about modules: 
 
 * Is the work available as a collection of component parts or files? If so, describe them. (Consider a website, for instance. It may have HTML, CSS, and media files.)
 * Describe the components of the work's composition, even if they are not available as a collection of parts or files. (Consider radio drama or podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles.) 
@@ -556,7 +556,7 @@ The main content prompts considerations of *shared interpretation*, or what puts
 
 ### Moment
 
-As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consider the moment(s) of the work's composition, circulation, and reception. The moment is about context. Here are some ways to think about a moment: 
+As part of "comprehension" in [the 20 M's](#the-20-ms), you might want to consider the moment(s) of the work's composition, circulation, and reception. The moment is about context. Here are some ways to think about a moment: 
 
 * Identify who was involved in the work. Consider who got credit and for what. 
 * Identify when it was made and circulated. Consider what other kinds of work were popular at that time. 
@@ -565,6 +565,22 @@ As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consi
 * Describe its reception over time. Compare its reception now with its reception then. 
 
 The moment prompts considerations of *shared situations*, or what about a work puts people in the same space and/or time. 
+
+---
+
+### Made
+
+As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to consider how the work was made. How did it come together? How did this become that? Of note, it's pretty much impossible to fully capture and describe this process, even if you can access, say, notes, documentation, or designer diaries. But here are some ways to determine or conjecture how a work was made: 
+
+* Visit a collection in person or online. Libraries, archives, and museums often have materials describing and/or documenting how works were made. 
+* Use the [Wayback Machine](https://archive.org/web/) or a similar service to compare versions of a work over time. (See "Morphed" below, too.) 
+* Read blogs and the like. Maybe those involved in the work shared their process in writing, through video, etc. 
+* Imitate the work. Make your own personal copy of it and document the process along the way. 
+* Deconstruct the work. If possible, take it apart, put it back together, and document the process along the way.  
+* Play it backwards. Start at the end, work your way to the beginning, and document the process along the way. 
+* Check the source code, if available and applicable. You might find some insightful comments there. 
+
+Made prompts considerations of *process* over product.  
 
 ---
 
@@ -587,7 +603,7 @@ The meta stuff prompts considerations of *design, style, and structure*.
 
 ### Massage
 
-As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
+As part of "synthesis" in [the 20 m's](#the-20-ms), you might want to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
 
 * Is the work securing consensus? If so, then how? And what sort of consensus? 
 * Is the work a distraction? If so, then how? And from what? 
