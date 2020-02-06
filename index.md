@@ -626,7 +626,7 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), you might want to consider h
 * Does the work involve simultaneity? Does it ask you to balance things or to mulitask? If so, then to what effects? 
 * Does the work address you (hey you! hi there)? If so, then how? Directly or indirectly? Under what assumptions?       
 
-Massaging and manipulation prompt considerations of *motivation and ideology*.
+Massaging and manipulation prompt considerations of *discipline and ideology*.
 
 ---
 
