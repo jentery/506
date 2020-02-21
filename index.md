@@ -322,7 +322,21 @@ Here's the rubric:
 
 **Genealogy** 
 
-Prompt and rubric coming soon.  
+Your genealogy should help you to articulate what's interesting about your selected technique and its uses in at least *three* works of fiction. (Where possible, consider works by more than one artist or author. I recommend keeping the genealogy to no more than five works.) How and to what effects does the technique articulate media with fiction? What are the politics of this articulation? The aesthetics? What sort of apparatus is at play? What sort of speculations are made possible across media and fiction? Consider the genealogy a thorough description of "stress points" in your technique since 1900. You don't need to follow chronological order (as if the most recent use of the technique is its best use), you don't need many (if any) secondary sources to support your observations, and you don't even need to make an argument. Just thoroughly describe how the technique is used and what it's doing in at least three works of fiction; and as you do, tell your readers what's interesting (both politically and aesthetically) about these uses. Don't feel as if you need to present a tidy conclusion or a compelling introduction, either. Again, it's not an argument. You may even want to conclude the genealogy with some questions. It's only March, after all. 
+
+The genealogy should be between 500 and 750 words, plus references, formatted in MLA, Chicago, or APA. Please submit it to me in PDF or DOCX before seminar meets on Thursday, March 12th. Put your name on it. 
+
+Here's the rubric: 
+
+90-100 = A+: The genealogy articulates what's interesting about your selected technique and its uses in at least three works of fiction. It engages with nuance the politics and aesthetics of the technique, an apparatus at play, and the speculations made possible. Its observations are both compelling and original. It exhibits the beginnings of publishable research in or around the field of media aesthetics. 
+
+85-89 = A: The genealogy articulates what's interesting about your selected technique and its uses in at least three works of fiction. It engages with nuance the politics and aesthetics of the technique, an apparatus at play, and the speculations made possible. Its observations are compelling and occasionally original. 
+
+80-84 = A-: The genealogy articulates what's interesting about your selected technique and its uses in at least three works of fiction. It engages with nuance the politics and aesthetics of the technique, an apparatus at play, and the speculations made possible. Its observations are compelling. 
+
+77-79 = B+: The genealogy articulates what's interesting about your selected technique and its uses in at least three works of fiction. It engages the politics and aesthetics of the technique. Its observations are occasionally compelling. 
+ 
+73-76 = B: The genealogy articulates what's interesting about your selected technique and its uses in at least three works of fiction. 
 
 **Presentation** 
 
