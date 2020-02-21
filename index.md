@@ -213,8 +213,6 @@ February 27th: on treating media and design as your scholarship
 
 Please watch Amanda Strong and Leanne Betasamosake Simpson's [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8) (2019) and read / play micha cárdenas and Bobby Bray's [*Redshift & Portalmetal*](https://micharoja.itch.io/redshift-and-portalmetal) (2014). I also recommend [Jordan Abel's work](http://www.jordanabel.ca/). 
 
-We'll visit the [Obsolete Computing and Media](https://ocam.library.uvic.ca/index.php) collection in the library.  
-
 Please select the date and assigned material(s) for your third co-facilitation. I'll circulate a sign-up sheet. 
 
 ## I Followed the Rules. 
@@ -223,7 +221,9 @@ March 5th: on roleplay, executable language, and protocols for action (media: te
 
 Please prototype a game using Avery Alder's [*Simple World*](https://buriedwithoutceremony.com/simple-world) (2013). You may also want to check out games made with the [Powered by the Apocalypse](http://apocalypse-world.com/pbta/) engine. 
 
-Please schedule a time to meet with me (20-30 minutes) about your project or essay.   
+Please schedule a time to meet with me (20-30 minutes) about your project or essay.  
+
+We'll visit the [Obsolete Computing and Media](https://ocam.library.uvic.ca/index.php) collection in the library.  
 
 ## Click Here. 
 
@@ -322,9 +322,9 @@ Here's the rubric:
 
 **Genealogy** 
 
-Your genealogy should help you to articulate what's interesting about your selected technique and its uses in at least *three* works of fiction. (Where possible, consider works by more than one artist or author. I recommend keeping the genealogy to no more than five works.) How and to what effects does the technique articulate media with fiction? What are the politics of this articulation? The aesthetics? What sort of apparatus is at play? What sort of speculations are made possible across media and fiction? Consider the genealogy a thorough description of "stress points" in your technique since 1900. You don't need to follow chronological order (as if the most recent use of the technique is its best use), you don't need many (if any) secondary sources to support your observations, and you don't even need to make an argument. Just thoroughly describe how the technique is used and what it's doing in at least three works of fiction; and as you do, tell your readers what's interesting (both politically and aesthetically) about these uses. Don't feel as if you need to present a tidy conclusion or a compelling introduction, either. Again, it's not an argument. You may even want to conclude the genealogy with some questions. It's only March, after all. 
+Your genealogy should help you to articulate what's interesting about your selected technique and its uses in at least *three* works of fiction. (Where possible, consider works by more than one artist or author. I recommend keeping the genealogy to no more than five works.) How and to what effects does the technique articulate media with fiction? What are the politics of this articulation? The aesthetics? What sort of apparatus is at play? What sort of speculations are made possible across media and fiction? Consider the genealogy a thorough description of "stress points" in your technique since 1900. You don't need to follow chronological order (as if the most recent use is the best use), you don't need many (if any) secondary sources to support your observations, and you don't even need to make an argument. Just thoroughly describe how the technique is used and what it's doing in at least three works of fiction; and as you do, tell your readers what's interesting (both politically and aesthetically) about these uses. Don't feel as if you need to present a tidy conclusion or a compelling introduction, either. Again, it's not an argument. You may even want to conclude the genealogy with some questions. It's not yet April, after all. 
 
-The genealogy should be between 500 and 750 words, plus references, formatted in MLA, Chicago, or APA. Please submit it to me in PDF or DOCX before seminar meets on Thursday, March 12th. Put your name on it. 
+The genealogy should be between 500 and 750 words, plus references, formatted in MLA, Chicago, or APA. Please email it to me in PDF or DOCX before seminar meets on Thursday, March 12th. Put your name on it. 
 
 Here's the rubric: 
 
