@@ -396,9 +396,9 @@ I use the acronym **SCANNED** (I know, I know . . .) to remember this list and t
 
 ### The 20 M's
 
-"Media aesthetics" is the framework we'll use to approach media and fiction in this seminar. I define it as *the practice of evaluating how design and content are apprehended, comprehended, synthesized, and reproduced*. 
+"Media aesthetics" is the framework we'll use to approach media and fiction in this course. I define it as *the practice of evaluating how design and content are apprehended, comprehended, synthesized, and reproduced*. These terms are defined below. 
 
-We'll use 20 words starting with the letter "m" to facilitate our study of media and fiction through media aesthetics. The list, which I shared during our first meeting (January 9th), is a guide, not a set of instructions, and will inevitably fall apart with some practice and pressure. In the list I avoid common dichotomies between mind and body, logic and feeling, and analysis and experience, mostly because such dichotomies are driven by norms or ideals frequently critiqued within media and literary studies. Although there's an order to the outline, with "Apprehension" appearing first, it's not a hierarchy or series of steps. The "Evaluation" section may prompt revisions to "Synthesis," for example, or some people may wish to start with "Comprehension." I use "work" throughout the guide to refer to a work of fiction and its media (audio, image, and text), and I encourage repeated description to render the process as approachable as possible. Suggestions welcome.  
+We'll use 20 words starting with the letter "m" to facilitate our study of media and fiction through media aesthetics. The list is a guide, not a set of instructions, and will inevitably fall apart with some practice and pressure. In the list I avoid common dichotomies between mind and body, logic and feeling, and analysis and experience, mostly because such dichotomies are driven by norms or ideals frequently critiqued within media and literary studies. Although there's an order to the outline, with "Apprehension" appearing first, it's not a hierarchy or series of steps. The "Evaluation" section may prompt revisions to "Synthesis," for example, or some people may wish to start with "Comprehension." I use "work" throughout the guide to refer to a work of fiction and its media (audio, image, and text), and I encourage repeated description to render the process as approachable as possible. Suggestions welcome.  
 
 **Apprehension** 
 
@@ -431,8 +431,8 @@ Consider distilling the work, reflecting on it, and even graphing its parts, sto
 * Describe how it [*massages*](#massage) or [*manipulates*](#massage) people's senses.
 * Describe how people *move* with, within, across, and beyond it. 
 * Describe what [*motivates*](#motivates) people to return to and/or identify with it. 
-* Describe how it and responses to it have *morphed* over time. 
-* Describe how it is or would be collected and *maintained* over time. 
+* Describe how it and responses to it have [*morphed*](#morphed) over time. 
+* Describe how it is or would be collected and [*maintained*](#maintained) over time. 
 
 Consider taking notes for each of these but developing a response to just one or two. Otherwise, the process may be overwhelming. 
 
@@ -440,10 +440,10 @@ Consider taking notes for each of these but developing a response to just one or
 
 "So what?" Evaluation is about assessment, or why people should care about the work and engagements with it. Evaluations have intended audiences; knowing that audience and their expectations focuses the inquiry. 
 
-* Describe how the work *mediates* its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
-* Describe who and what it *misses*, ignores, or essentializes.  
-* Describe the *memories* it elicits and how it elicits them. 
-* Describe how it functions as *mimesis* (show, drama) and diegesis (tell, narrative) within and against its network.  
+* Describe how the work [*mediates*](#mediates) its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
+* Describe who and what it [*misses*](#misses), ignores, or essentializes.  
+* Describe the [*memories*](#memories) it elicits and how it elicits them. 
+* Describe how it functions as [*mimesis*](#mimesis) (show, drama) and diegesis (tell, narrative) within and against its network.  
 
 Again, consider taking notes for each of these but developing a response to just one or two. A response may not be an essay or series of paragraphs. Compose with audio, image, and/or text to determine what sticks with you and/or what others deem to be most compelling.  
 
