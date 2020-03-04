@@ -498,7 +498,7 @@ As part of "apprehension" in [the 20 m's](#the-20-ms), you may want to consider 
 * Packaging: is it packaged? if so, describe the packaging. 
 * Recording: how is it recorded? can you handle or see the record? 
 
-Materials prompt considerations of the work as *stuff*. 
+"Material" prompts considerations of the work as *stuff*. 
 
 ---
 
@@ -510,37 +510,37 @@ As part of "apprehension" in [the 20 m's](#the-20-ms), you may want to consider 
 * WOVEN: writing (including reading), oral (what's said and heard), visual (colour, layout, and images, for instance), electronic (how the work transmits media, and whether it's electronic), and nonverbal (gesture, audio, and movement, for instance). Thanks to [Georgia Tech's Writing and Communication Program](https://wcprogram.lmc.gatech.edu/posters/woven) for this approach and the acronym, WOVEN. 
 * Agency: are you moving / engaging with or against the work? Maybe somewhere in between? What's the flow? Are you in, or do you want to be in, control? 
 
-Modes and senses prompt considerations of *attention and how we attend*.  
+"Modes" and senses prompt considerations of *attention and how we attend*.  
 
 ---
 
 ### Mood
 
-As part of "apprehension" in [the 20 m's](#the-20-ms), you might want to consider the mood. The mood is about being in the world and engaging fiction. What's the work's vibe or feel? Here are some ways to think about mood: 
+As part of "apprehension" in [the 20 m's](#the-20-ms), you may want to consider the mood. The mood is about being in the world and engaging fiction. What's the work's vibe or feel? Here are some ways to think about mood: 
 
 * Describe the work as an encounter. What or whom are you encountering? Does it feel close or distant? 
 * Describe the work as an atmosphere. What's the "weather" of the work? 
 * Describe the work's tone. Is it serious? Playful? Vauge? Direct? 
 * Describe the work as a feeling. Any goosebumps? What emotions or experiences do you associate with it? 
 
-Mood prompts considerations of *distance, immediacy, or familiarity.* 
+"Mood" prompts considerations of *distance, immediacy, or familiarity.* 
 
 ---
 
 ### Modules
 
-As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consider modules, which draw attention the work's composition and arrangement. Here are some ways to think about modules: 
+As part of "comprehension" in [the 20 m's](#the-20-ms), you may want to consider modules, which draw attention the work's composition and arrangement. Here are some ways to think about modules: 
 
 * Is the work available as a collection of component parts or files? If so, describe them. (Consider a website, for instance. It may have HTML, CSS, and media files.)
 * Describe the components of the work's composition, even if they are not available as a collection of parts or files. (Consider radio drama or podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles.) 
 
-Modules prompt considerations of the *relationships between parts and whole*. 
+"Modules" prompt considerations of the *relationships between parts and whole*. 
 
 ---
 
 ### Measure 
 
-As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consider measurements. To measure is to assess and/or quantify media, fiction, and engagements with them. Here are some ways to think about measurements:  
+As part of "comprehension" in [the 20 m's](#the-20-ms), you may want to consider measurements. To measure is to assess and/or quantify media, fiction, and engagements with them. Here are some ways to think about measurements:  
 
 * Length: the work as pages, words, or minutes, e.g.  
 * Progress: the work as levels or the distance to the end, e.g.
@@ -549,13 +549,13 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consid
 * Presentation: the work as its screen (size), resolution, compression, or fidelity, e.g.  
 * Attention: the work as clicks, views, sales, or ratings, e.g. 
 
-Measurements prompt considerations of *value*. 
+"Measurements" prompt considerations of *value*. 
 
 ---
 
 ### Main Content 
 
-As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consider the main content or story. Here are some ways to think about it: 
+As part of "comprehension" in [the 20 m's](#the-20-ms), you may want to consider the main content or story. Here are some ways to think about it: 
 
 * Characters: humans, robots, nonhuman animals, mythological, and even environments or parts of the environment  
 * Setting: time, place, and location of the story 
@@ -564,13 +564,13 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consid
 * Conflict: between characters, events, groups, and/or environments (the tension upon which the story relies) 
 * Point of view: first, second, or third-person (omniscient or limited)
 
-The main content prompts considerations of *shared interpretation*, or what puts people on the same page.  
+"Main content" prompts considerations of *shared interpretation*, or what puts people on the same page.  
 
 ---
 
 ### Moment
 
-As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consider the moment(s) of the work's composition, circulation, and reception. The moment is about context. Here are some ways to think about a moment: 
+As part of "comprehension" in [the 20 m's](#the-20-ms), you may want to consider the moment(s) of the work's composition, circulation, and reception. The moment is about context. Here are some ways to think about a moment: 
 
 * Identify who was involved in the work. Consider who got credit and for what. 
 * Identify when it was made and circulated. Consider what other kinds of work were popular at that time. 
@@ -578,13 +578,13 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), you might want to consid
 * Describe where the work was made and circulated. Consider its network, geographic location, and "scene." In some cases, the network may be quite literal: a radio or tv network, for instance. 
 * Describe its reception over time. Compare its reception now with its reception then. 
 
-The moment prompts considerations of *shared situations*, or what about a work puts people in the same space and/or time. 
+"Moment" prompts considerations of *shared situations*, or what about a work puts people in the same space and/or time. 
 
 ---
 
 ### Made
 
-As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider how the work was made. How did it come together? How did this become that? Of note, it's pretty much impossible to fully capture and describe this process, even if you can access, say, notes, documentation, or designer diaries. But here are some ways to determine or conjecture how a work was made: 
+As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider how the work was made. How did it come together? How did this become that? Of note, it's pretty much impossible to fully capture and describe this process, even if you can access, say, notes, documentation, or designer diaries. But here are some ways to determine or conjecture how a work was made: 
 
 * Visit a collection in person or online. Libraries, archives, and museums often have materials describing and/or documenting how works were made. 
 * Use the [Wayback Machine](https://archive.org/web/) or a similar service to compare versions of a work over time. (See "Morphed" below, too.) 
@@ -594,13 +594,13 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider 
 * Go backwards. Start at the end, work your way to the beginning, and document the process (or experience) along the way. 
 * Check the source code, if available and applicable. You might find some insightful comments there. 
 
-Made prompts considerations of *process* over product.  
+"Made" prompts considerations of *process* over product.  
 
 ---
 
 ### Meta
 
-As part of "synthesis" in [the 20 m's](#the-20-ms), you might get meta about how the story is told. Here are some ways to get meta. Consider the:  
+As part of "synthesis" in [the 20 m's](#the-20-ms), you may get meta about how the story is told. Here are some ways to get meta. Consider the:  
 
 * Situation: What's known or taken for granted in the work? How do characters understand each other (or so we assume)?
 * World: What's the scope and scale of the setting and its systems, history, mythologies, and/or landscape? How is the world of the work bigger or more expansive than the story itself? 
@@ -611,7 +611,7 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), you might get meta about how
 * Focalization: How do we get our knowledge from characters and/or narrators (zero = omniscient narrator who knows more than characters, internal = narrator is a character and thus knows what the character knows, and external focalization = narator or camera eye telling less than what characters know)?
 * Narration (compare with plot above): How is the story told? Often involves abstract (summary), orientation (time and place), complicating action, resolution (climax), evaluation (commentary or elucidation), and coda (time of story meets time of narrative).
 
-The meta stuff prompts considerations of *design, style, and structure*. 
+"Meta" prompts considerations of *design, style, and structure*. 
 
 ---
 
@@ -630,7 +630,7 @@ Meaning prompts considerations of *significance*.
 
 ### Massage
 
-As part of "synthesis" in [the 20 m's](#the-20-ms), you might want to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
+As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
 
 * Is the work securing consensus? If so, then how? And what sort of consensus? 
 * Is the work a distraction? If so, then how? And from what? 
@@ -644,9 +644,25 @@ Massaging and manipulation prompt considerations of *discipline and ideology*.
 
 ---
 
+### Move 
+
+As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider how people move with the work. Here are some ways to think about movement:   
+
+* Arrangement and layout: How does the work guide interpretation and experience? How does it structure play and perception? 
+* Mechanics and actions: How does the work prompt input? What are the mechanics? The horizons of action? 
+* Expected and unexpected: How does the work play with expectations? With where it may go or what people assume may happen next? What moves are surprising? 
+* Repetition and amplitude: What moves does the work ask people to rehearse? What's intense or loud about its movement? Subtle?
+* Idleness and inaction: How does the work invite or afford idleness or inaction? What happens when people don't engage or participate? 
+* Rules and boundaries: How and where does the work draw boundaries? Where can't people go, or what can't they do? 
+* Embodiment: How and when does the work draw attention to people's unique, embodied experiences? How and when does it ignore or standardize them? 
+
+"Move" prompts considerations of *activity and anticipation*.  
+
+---
+
 ### Motivates
 
-As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider what motivates people to attend and return to a work. Here are some ways to approach such motivation:  
+As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider what motivates people to attend and return to a work. Here are some ways to approach such motivation:  
 
 * Describe the work as a community, network, or social experience. What brought or brings people to it? 
 * Describe the work as an embodied experience. What's pleasurable (or not) about it?  
