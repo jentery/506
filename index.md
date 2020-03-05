@@ -801,11 +801,9 @@ These notes draw from work by Lisa Cartwright, Hillary Chute, Gilles Deleuze, Ma
 
 ### Games and Fiction
 
-## Games 
-
 If you're working on games and fiction, then following may be useful. 
 
-Component of a game (drawn from the work of Walker White): 
+Components of a game (drawn from the work of Walker White): 
 * Engine (for physics, graphics, sound, and game dynamics) 
 * Rules (framework or guidelines for action) and mechanics (the actions afforded) 
 * Interface (for options, navigation, and menus) 
@@ -829,6 +827,8 @@ Evaluation of games (drawn from the work of Anna Anthropy, Naomi Clark, Brenda R
 * Uncertainty: To what degree are the outcomes predetermined? 
 * Satisfaction: To what degree are desirable outcomes attainable?  
 * Values: How do the actions and horizons of action correspond with particular worldviews? What do those worldviews assume about players and games?  
+
+---
 
 # Policies 
 
