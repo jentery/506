@@ -102,7 +102,7 @@ Here's a list of what we're studying this term (in the order of when we're study
 * micha cárdenas and Bobby Bray's *Redshift & Portalmetal* (2014)
 * Avery Alder's *Simple World* (2013)
 * Porpentine Charity Heartscape and Brenda Neotenomie's *With Those We Love Alive* (2014) 
-* Fulbright's *Gone Home* (2013)
+* Fullbright's *Gone Home* (2013)
 * Toby Fox and Temmie Chang's *Undertale* (2015) 
 * Young-Hae Chang Heavy Industries' *M00D 0F THE M0MENT* (2007)
 
@@ -113,7 +113,7 @@ I recommend purchasing the following:
 * Emil Ferris's [*My Favorite Thing Is Monsters*](http://www.fantagraphics.com/my-favorite-thing-is-monsters/) (also at the UVic Bookstore)   
 * N.K. Jemisin's [*The Fifth Season*](https://www.orbitbooks.net/orbit-excerpts/the-fifth-season/) 
 * Toby Fox and Temmie Chang's [*Undertale*](https://undertale.com/) 
-* Fulbright's [*Gone Home*](https://gonehome.game/) 
+* Fullbright's [*Gone Home*](https://gonehome.game/) 
 
 Of note, you can play *Gone Home* and *Undertale* with friends and watch gameplay videos of them online.  
 
@@ -235,7 +235,7 @@ Please read / play Porpentine Charity Heartscape and Brenda Neotenomie's [*With 
 
 March 12th: on simulation, subjective shots, and the everyday paranormal (media: text, image, audio; apparatus: engine, grid)     
 
-Please play [Fulbright's *Gone Home*](https://gonehome.game/) (2013) for at least 90 minutes. 
+Please play [Fullbright's *Gone Home*](https://gonehome.game/) (2013) for at least 90 minutes. 
 
 Please submit your genealogy today.   
 
