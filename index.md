@@ -817,7 +817,7 @@ Some key terms for games (drawn from the work of Anna Anthropy, Naomi Clark, Ale
 * Horizon of action: the synthesis of states attainable (according to the game) and states desired (by a player) 
 * Goals: desired game states, or games states with a special status 
 * Trajectory: path through phase and play space toward horizon of action 
-* Types of action (care of Alexander Galloway): diegetic machine act (the game proceeds without player), diegetic player act (such as movement, expression, and dialogue), non-diegetic machine act (game goals, states, bugs, and crashes), and non-diegetic player action (such as pressing pause or selecting options)
+* Types of action (care of Alexander Galloway): diegetic machine act (the game proceeds without the player), diegetic player act (such as player character movement, expression, and dialogue), non-diegetic machine act (such game goals, points, stats, bugs, and crashes), and non-diegetic player action (such as pressing pause or selecting options)
 
 Evaluation of games (drawn from the work of Anna Anthropy, Naomi Clark, Brenda Romero, and Brian Upton): 
 * Choice: What possible actions, or "verbs," are afforded by horizons of action?  
