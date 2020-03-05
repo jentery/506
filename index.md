@@ -801,7 +801,34 @@ These notes draw from work by Lisa Cartwright, Hillary Chute, Gilles Deleuze, Ma
 
 ### Games and Fiction
 
-Coming soon. 
+## Games 
+
+If you're working on games and fiction, then following may be useful. 
+
+Component of a game (drawn from the work of Walker White): 
+* Engine (for physics, graphics, sound, and game dynamics) 
+* Rules (framework or guidelines for action) and mechanics (the actions afforded) 
+* Interface (for options, navigation, and menus) 
+* Content (such as the story, characters, conditions, levels, and audio, image, and text) 
+* Play (uncompelled or uncoerced negotiation with the components above; a relation between game and player) 
+
+Some key terms for games (drawn from the work of Anna Anthropy, Naomi Clark, Alexander Galloway, Brenda Romero, and Brian Upton): 
+* Game state: all variables at play in a given scenario; may include everything from number of players and components to possible actions and conflicts to goals and win conditions; essentially the game’s "metagame"
+* Phase space: the conceptual space representing possible game states; helps to account for movement from one location to the next; has direction and goals built into it (such as unlocking, levels, and disclosure) 
+* Playspace or actionable space: the actual, playable gameworld, where players negotiate with game states and phase space 
+* Horizon of action: the synthesis of states attainable (according to the game) and states desired (by a player) 
+* Goals: desired game states, or games states with a special status 
+* Trajectory: path through phase and play space toward horizon of action 
+* Types of action (care of Alexander Galloway): diegetic machine act (the game proceeds without player), diegetic player act (such as movement, expression, and dialogue), non-diegetic machine act (game goals, states, bugs, and crashes), and non-diegetic player action (such as pressing pause or selecting options)
+
+Evaluation of games (drawn from the work of Anna Anthropy, Naomi Clark, Brenda Romero, and Brian Upton): 
+* Choice: What possible actions, or "verbs," are afforded by horizons of action?  
+* Variety: How much repetition occurs in the horizon of action?  
+* Consequence: To what degree do actions have palpable/clear outcomes? 
+* Predictability: To what degree can actions, or "verbs," be anticipated?  
+* Uncertainty: To what degree are the outcomes predetermined? 
+* Satisfaction: To what degree are desirable outcomes attainable?  
+* Values: How do the actions and horizons of action correspond with particular worldviews? What do those worldviews assume about players and games?  
 
 # Policies 
 
