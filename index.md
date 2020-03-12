@@ -340,7 +340,11 @@ Here's the rubric (please read it when you have a sec):
 
 **Presentation** 
 
-Prompt and rubric coming soon. 
+I’m asking each of you to present for *five minutes* during seminar on Thursday, March 26th. Your presentation should include the following three components: 1) a concise description of your essay / project, including the technique you've selected for study; 2) why you chose the topic and technique (e.g., why they are interesting or important); and 3) three questions you have for us (prompt feedback and advice from us on specific aspects of the essay / project). You may use slides or other media, if you wish, but please stick to five minutes. I will set a timer, and then we’ll have seven more minutes (per presentation) for discussion, mostly to address part three above (those three questions you have for us). 
+
+Prior to that meeting on the 26th, you should email me a 250-word abstract for your project / essay as well as three *learning outcomes* for it. The abstract should describe the motivation for your research (why do we care?), the problem or issue you’re addressing (including some language about the technique you’re studying), and your approach to that problem. You will then revise it in April for your final essay / project to also include your main argument (including results or findings, if applicable) and your conclusions (what you learned and what you hope others learn from your work).  
+
+Learning outcomes for your essay / project should address the sort of knowledge your essay / project will demonstrate. For instance, a learning outcome for an upper-level literature course may read like so, “Use a 3000-word academic essay, supported by at least three secondary sources, to communicate the importance of home, family, and kinship in two works of contemporary American fiction (published after 1980).” Such an outcome can be assessed quantitatively (number of words and sources) but also qualitatively (demonstrated knowledge about two works, home, family, kinship, and Am lit). 
 
 **Final Project or Essay** 
 
