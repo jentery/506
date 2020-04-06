@@ -679,7 +679,14 @@ Motivation prompts considerations of *traction*.
 
 ### Morphed
 
-Coming soon. 
+As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider how the work morphs or changes shape. Here are some ways to approach morphing:
+
+* Describe how the work's content and design have changed over time. If the work is online, then you can use the [Wayback Machine](https://archive.org/web/) to study the work as it appeared on particular dates.  
+* Describe versions of the work, if applicable. Perhaps it's been updated (e.g., version 1.1.6 vs. version 2.2.6) over time or multiple editions exist. 
+* Describe how the shape of the work changes when you interact with it or provide input. Maybe more content becomes available as you progress through the work, or perhaps the work gradually discloses certain features. 
+* Describe how the work's content and design correspond with its [moment](#moment), including its network but also interpretations of it during different periods of time (interpretation then versus interpretation now, for example). 
+
+Morphing prompts considerations of *mutability*, where the work is neither frozen nor static but dynamic, changing with technologies and contexts over time and across space. 
 
 ---
 
@@ -805,7 +812,7 @@ These notes draw from work by Lisa Cartwright, Hillary Chute, Gilles Deleuze, Ma
 
 ### Games and Fiction
 
-If you're working on games and fiction, then following may be useful. 
+If you're working on games and fiction, then the following may be useful. 
 
 Components of a game (drawn from the work of Walker White): 
 * Engine (for physics, graphics, sound, and game dynamics) 
@@ -830,7 +837,31 @@ Evaluation of games (drawn from the work of Anna Anthropy, Naomi Clark, Brenda R
 * Predictability: To what degree can actions, or "verbs," be anticipated?  
 * Uncertainty: To what degree are the outcomes predetermined? 
 * Satisfaction: To what degree are desirable outcomes attainable?  
-* Values: How do the actions and horizons of action correspond with particular worldviews? What do those worldviews assume about players and games?  
+* Values: How do the actions and horizons of action correspond with particular worldviews? What do those worldviews assume about players and games? 
+
+---
+
+### Text and Fiction
+
+If you're working on text and fiction, then the following may be useful. (The list is not intended to be exhaustive.) 
+
+Text often functions as: 
+
+**Image**: here, we might consider the text's perceptual and graphic dimensions, such as the layout of a page or website or the arrangement of words; recall *M00D 0F THE M0MENT* or *My Favorite Thing Is Monsters*, for example
+
+**Symbol**: in this case, we're talking about text as the use of systems (alphabets) of characters (symbols) to compose words and create meaning (connotation and denotation); this version of text is most common in studies of fiction; recall our analysis of "Message in a Bottle" or *Fun Home,* for instance   
+
+**Script**: we may also note how text functions as a recording or document, the content of which is to be performed or rehearsed; scripts may also function as evidence of an event or performance; recall our discussion of *Sorry, Wrong Number*, for example  
+
+**Instruction**: here, text conveys rules or steps to follow, without much, if any, attention to connotation or figurative language; this use of text is most common in games (video and tabletop); consider *Secrets Agent* and *Simple World*, for instance  
+
+**Tag**: text may also be used for organization, structure, or markup; it may facilitate association or pattern analysis; this is text as metadata or hashtag; consider the use of HTML in works such as *With Those We Love Alive* 
+
+**Action**: this is executable text, from menus, links, and buttons in an interface to the use of programming languages as "source code"; consider any game here, including the use of the C++ and C# languages to create *Gone Home*, which also relies heavily on menus to navigate options and perform certain actions 
+
+**Type**: here we're examining text as lettering and its design; aspects of type include its stroke (straight, curved, or angled letterforms), axis (neutral, positive, or negative "inclination" of the stroke), aperture (the openness or constraint of a letter), and serif (a visual stop at the beginning and/or end of a stroke); consider the use of typefaces in the game, *Undertale* 
+
+Of course, text as media serves several of these functions at once. An important thing to remember is that text isn't just Text. Its multiple, often contradictory functions mean it's not homogeneous in its intent or effect. 
 
 ---
 
